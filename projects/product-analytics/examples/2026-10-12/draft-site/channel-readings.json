@@ -1,0 +1,5966 @@
+{
+  "schema_version": 1,
+  "data_date": "2026-10-11",
+  "dates": [
+    "2026-09-28",
+    "2026-09-29",
+    "2026-09-30",
+    "2026-10-01",
+    "2026-10-02",
+    "2026-10-03",
+    "2026-10-04",
+    "2026-10-05",
+    "2026-10-06",
+    "2026-10-07",
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-10",
+    "2026-10-11"
+  ],
+  "metric": {
+    "key": "detail_pv",
+    "label": "商详访问次数",
+    "unit": "次"
+  },
+  "category": "流行饰品/眼镜/服配",
+  "built_at": "2026-10-12T12:37:40.196275+08:00",
+  "collected_date": "2026-10-12",
+  "collected_at": "2026-10-12T12:37:40.196275+08:00",
+  "scope_filter": {
+    "rule": "backendNew || weekSales > 0 || weekFavorites > 0",
+    "period_start": "2026-10-02",
+    "period_end": "2026-10-08",
+    "source": "work/retry_metrics.json",
+    "source_fields": {
+      "backendNew": "row[2]",
+      "weekSales": "row[4][1]",
+      "weekFavorites": "row[4][7]"
+    },
+    "category_product_count": 46,
+    "active_product_count": 18,
+    "active_codes": [
+      "YX9354001",
+      "YX9615001",
+      "YX243800A",
+      "YX9339001",
+      "YX9640001",
+      "YX9640002",
+      "YX9545001",
+      "YX243900A",
+      "YX9638001",
+      "YX9524001",
+      "YX9501001",
+      "YX9341001",
+      "YS407600A",
+      "YX9340001",
+      "YX9648001",
+      "YH9380001",
+      "YX9352001",
+      "YX9648002"
+    ],
+    "excluded_products": [
+      {
+        "code": "YX9611001",
+        "name": "限定蓝眼泪",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9523001",
+        "name": "灵动爱心",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9617001",
+        "name": "幸运四叶草情缘",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9338001",
+        "name": "满钻星月珍珠",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9337001",
+        "name": "紫藤花之恋",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9499001",
+        "name": "云层甜裙",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9529001",
+        "name": "幻彩星月",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9343001",
+        "name": "一个熊抱",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9345001",
+        "name": "幻梦星月",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9342001",
+        "name": "月落星辰",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YH9378001",
+        "name": "银杏叶耳钉",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YS9543001",
+        "name": "海洋物语手链",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9344001",
+        "name": "雪绒花",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9348001",
+        "name": "丘比特之羽",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9350001",
+        "name": "风铃兰花流苏",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9355001",
+        "name": "璀璨星闪满天星",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9520001",
+        "name": "爱心蝴蝶流苏",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YH9379001",
+        "name": "甜美通勤耳钉三件套",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YS9363001",
+        "name": "璀璨之心手链",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YS9366001",
+        "name": "流苏爱心手链",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YS9367001",
+        "name": "星月简约手链",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YS9369001",
+        "name": "茉莉花环手链",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YS9371001",
+        "name": "幸运守护四叶草手链",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YS9372001",
+        "name": "流光丝带结手链",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9346001",
+        "name": "璀璨爱心微笑",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9349001",
+        "name": "财运福袋",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9351001",
+        "name": "发财闪锆葫芦",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      },
+      {
+        "code": "YX9538001",
+        "name": "飘舞蝴蝶羽翼",
+        "backendNew": false,
+        "weekSales": 0,
+        "weekFavorites": 0,
+        "exclusionReason": "非后台新品且近7天销量与收藏均为0"
+      }
+    ],
+    "raw_observations_preserved": true
+  },
+  "notes": [
+    "PV与UV分开；一级渠道合计逐日核对，不重复相加父子渠道。",
+    "14款具有完整两周来源，5款新记录具有10/09—10/11三日来源，6款经核验仅核心指标入口。",
+    "二级渠道只有实际取得的日期和区间显示数值；不从四舍五入环比倒推。"
+  ],
+  "coverage": {
+    "category_product_count": 51,
+    "active_product_count": 25,
+    "excluded_product_count": 26,
+    "pending_listing_product_count": 0,
+    "period_date_count": 14,
+    "expected_product_day_count": 350,
+    "observed_product_day_count": 211,
+    "observed_product_count": 19,
+    "observed_counts_by_date": {
+      "2026-09-28": 14,
+      "2026-09-29": 14,
+      "2026-09-30": 14,
+      "2026-10-01": 14,
+      "2026-10-02": 14,
+      "2026-10-03": 14,
+      "2026-10-04": 14,
+      "2026-10-05": 14,
+      "2026-10-06": 14,
+      "2026-10-07": 14,
+      "2026-10-08": 14,
+      "2026-10-09": 19,
+      "2026-10-10": 19,
+      "2026-10-11": 19
+    },
+    "products_with_complete_period": [
+      "YX9354001",
+      "YX9615001",
+      "YX243800A",
+      "YX9339001",
+      "YX9640001",
+      "YX9638001",
+      "YX9640002",
+      "YX9545001",
+      "YX243900A",
+      "YX9611001",
+      "YX9341001",
+      "YS407600A",
+      "YX9648001",
+      "YX9648002"
+    ],
+    "complete_period_product_count": 14,
+    "source_status_counts": {
+      "observed": 19,
+      "not_exposed_in_backend": 6
+    },
+    "source_not_exposed_codes": [
+      "YH9380001",
+      "YX9340001",
+      "YX9343001",
+      "YX9499001",
+      "YX9501001",
+      "YX9524001"
+    ],
+    "source_not_yet_verified_codes": [],
+    "target_codes": [
+      "YX9354001",
+      "YX9615001",
+      "YX243800A",
+      "YX9339001",
+      "YX9640001",
+      "YX9638001",
+      "YX9640002",
+      "YX9545001",
+      "YX243900A",
+      "YX9524001",
+      "YX9611001",
+      "YX9341001",
+      "YX9501001",
+      "YS407600A",
+      "YH9380001",
+      "YX9340001",
+      "YX9343001",
+      "YX9648001",
+      "YX9499001",
+      "YX9507001",
+      "YS9542001",
+      "YX9498001",
+      "YX9500001",
+      "YX9537001",
+      "YX9648002"
+    ],
+    "target_product_count": 25,
+    "head_observation_codes": [
+      "YX9354001",
+      "YX9615001",
+      "YX243800A",
+      "YX9339001",
+      "YX9640001",
+      "YX9638001",
+      "YX9640002",
+      "YX9545001",
+      "YX243900A",
+      "YX9524001"
+    ],
+    "missing_dates_by_code": {
+      "YX9354001": [],
+      "YX9615001": [],
+      "YX243800A": [],
+      "YX9339001": [],
+      "YX9640001": [],
+      "YX9638001": [],
+      "YX9640002": [],
+      "YX9545001": [],
+      "YX243900A": [],
+      "YX9524001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "YX9611001": [],
+      "YX9341001": [],
+      "YX9501001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "YS407600A": [],
+      "YH9380001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "YX9340001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "YX9343001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "YX9648001": [],
+      "YX9499001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "YX9507001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ],
+      "YS9542001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ],
+      "YX9498001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ],
+      "YX9500001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ],
+      "YX9537001": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ],
+      "YX9648002": []
+    }
+  },
+  "channels": [
+    {
+      "id": "competition",
+      "name": "商品竞争力",
+      "parent_id": null
+    },
+    {
+      "id": "recommend",
+      "name": "商品推荐",
+      "parent_id": "competition"
+    },
+    {
+      "id": "search",
+      "name": "商品搜索",
+      "parent_id": "competition"
+    },
+    {
+      "id": "new_guarantee",
+      "name": "新品保量",
+      "parent_id": "competition"
+    },
+    {
+      "id": "paid",
+      "name": "付费推广",
+      "parent_id": null
+    },
+    {
+      "id": "push",
+      "name": "得物推",
+      "parent_id": "paid"
+    },
+    {
+      "id": "gravity",
+      "name": "引力",
+      "parent_id": "paid"
+    },
+    {
+      "id": "activity",
+      "name": "平台活动",
+      "parent_id": null
+    },
+    {
+      "id": "content",
+      "name": "内容自运营",
+      "parent_id": null
+    },
+    {
+      "id": "users",
+      "name": "用户运营",
+      "parent_id": null
+    },
+    {
+      "id": "other",
+      "name": "其他",
+      "parent_id": null
+    }
+  ],
+  "products": {
+    "YX9354001": {
+      "code": "YX9354001",
+      "name": "月光舞裙",
+      "backendNew": false,
+      "weekSales": 22,
+      "weekUv": 1732,
+      "weekFavorites": 145,
+      "rank": 1,
+      "topObservation": true,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_sales_positive"
+      ],
+      "exclusionReason": null,
+      "group": "有销量款",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-02": {
+          "total": 712,
+          "values": {
+            "competition": 98,
+            "recommend": 8,
+            "search": 90,
+            "paid": 503,
+            "push": 0,
+            "gravity": 503,
+            "activity": 3,
+            "content": 36,
+            "users": 55,
+            "other": 17
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 712,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 425,
+          "values": {
+            "competition": 101,
+            "recommend": 6,
+            "search": 95,
+            "paid": 224,
+            "push": 0,
+            "gravity": 224,
+            "activity": 1,
+            "content": 41,
+            "users": 43,
+            "other": 15
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 425,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 342,
+          "values": {
+            "competition": 95,
+            "recommend": 8,
+            "search": 87,
+            "paid": 144,
+            "push": 0,
+            "gravity": 144,
+            "activity": 0,
+            "content": 43,
+            "users": 57,
+            "other": 3
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 342,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 371,
+          "values": {
+            "competition": 95,
+            "recommend": 6,
+            "search": 89,
+            "paid": 177,
+            "push": 0,
+            "gravity": 177,
+            "activity": 0,
+            "content": 46,
+            "users": 37,
+            "other": 16
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 371,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 347,
+          "values": {
+            "competition": 110,
+            "recommend": 17,
+            "search": 93,
+            "paid": 129,
+            "push": 0,
+            "gravity": 129,
+            "activity": 0,
+            "content": 41,
+            "users": 56,
+            "other": 11
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 347,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-07": {
+          "total": 372,
+          "values": {
+            "competition": 119,
+            "recommend": 3,
+            "search": 116,
+            "paid": 144,
+            "push": 0,
+            "gravity": 144,
+            "activity": 1,
+            "content": 39,
+            "users": 58,
+            "other": 11
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 372,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 288,
+          "values": {
+            "competition": 84,
+            "recommend": 4,
+            "search": 80,
+            "paid": 133,
+            "push": 0,
+            "gravity": 133,
+            "activity": 0,
+            "content": 26,
+            "users": 40,
+            "other": 5
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 288,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          },
+          "reported_changes": {
+            "total": {
+              "pct": -22.58,
+              "comparison_date": "2026-10-07"
+            },
+            "competition": {
+              "pct": -29.41,
+              "comparison_date": "2026-10-07"
+            },
+            "recommend": {
+              "pct": 33.33,
+              "comparison_date": "2026-10-07"
+            },
+            "search": {
+              "pct": -31.03,
+              "comparison_date": "2026-10-07"
+            },
+            "paid": {
+              "pct": -7.64,
+              "comparison_date": "2026-10-07"
+            },
+            "push": {
+              "pct": 0,
+              "comparison_date": "2026-10-07"
+            },
+            "gravity": {
+              "pct": -7.64,
+              "comparison_date": "2026-10-07"
+            },
+            "activity": {
+              "pct": -100,
+              "comparison_date": "2026-10-07"
+            },
+            "content": {
+              "pct": -33.33,
+              "comparison_date": "2026-10-07"
+            },
+            "users": {
+              "pct": -31.03,
+              "comparison_date": "2026-10-07"
+            },
+            "other": {
+              "pct": -54.55,
+              "comparison_date": "2026-10-07"
+            }
+          },
+          "comparison_date": "2026-10-07",
+          "reported_shares_pct": {
+            "total": 100,
+            "competition": 29.17,
+            "recommend": 1.39,
+            "search": 27.78,
+            "paid": 46.18,
+            "push": 0,
+            "gravity": 46.18,
+            "activity": 0,
+            "content": 9.03,
+            "users": 13.89,
+            "other": 1.74
+          }
+        },
+        "2026-10-01": {
+          "total": 723,
+          "values": {
+            "competition": 102,
+            "recommend": 12,
+            "search": 90,
+            "paid": 494,
+            "push": 1,
+            "gravity": 493,
+            "activity": 1,
+            "content": 53,
+            "users": 64,
+            "other": 9
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 723,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 682,
+          "values": {
+            "competition": 110,
+            "activity": 1,
+            "paid": 482,
+            "content": 37,
+            "users": 41,
+            "other": 11
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 682,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 484,
+          "values": {
+            "competition": 97,
+            "activity": 2,
+            "paid": 255,
+            "content": 89,
+            "users": 33,
+            "other": 8
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 484,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 735,
+          "values": {
+            "competition": 115,
+            "activity": 1,
+            "paid": 446,
+            "content": 123,
+            "users": 39,
+            "other": 11
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 735,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 317,
+          "values": {
+            "competition": 108,
+            "recommend": 6,
+            "search": 102,
+            "paid": 129,
+            "push": 0,
+            "gravity": 129,
+            "activity": 1,
+            "content": 20,
+            "users": 50,
+            "other": 9
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 317,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 289,
+          "values": {
+            "competition": 80,
+            "recommend": 1,
+            "search": 79,
+            "paid": 137,
+            "push": 0,
+            "gravity": 137,
+            "activity": 0,
+            "content": 26,
+            "users": 37,
+            "other": 9
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 289,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 355,
+          "values": {
+            "competition": 126,
+            "recommend": 6,
+            "search": 120,
+            "paid": 133,
+            "push": 0,
+            "gravity": 133,
+            "activity": 0,
+            "content": 34,
+            "users": 58,
+            "other": 4
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 355,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "52189490",
+      "newEvidence": null,
+      "verified_date": "2026-10-12"
+    },
+    "YX9615001": {
+      "code": "YX9615001",
+      "name": "好运相随双面四叶草",
+      "backendNew": false,
+      "weekSales": 7,
+      "weekUv": 1477,
+      "weekFavorites": 99,
+      "rank": 2,
+      "topObservation": true,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_sales_positive"
+      ],
+      "exclusionReason": null,
+      "group": "有销量款",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-02": {
+          "total": 149,
+          "values": {
+            "competition": 14,
+            "recommend": 3,
+            "search": 11,
+            "paid": 123,
+            "push": 0,
+            "gravity": 123,
+            "activity": 0,
+            "content": 5,
+            "users": 5,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 149,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 198,
+          "values": {
+            "competition": 10,
+            "recommend": 0,
+            "search": 10,
+            "paid": 180,
+            "push": 0,
+            "gravity": 180,
+            "activity": 0,
+            "content": 4,
+            "users": 3,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 198,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 232,
+          "values": {
+            "competition": 14,
+            "recommend": 2,
+            "search": 12,
+            "paid": 210,
+            "push": 0,
+            "gravity": 210,
+            "activity": 0,
+            "content": 3,
+            "users": 4,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 232,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 205,
+          "values": {
+            "competition": 12,
+            "recommend": 0,
+            "search": 12,
+            "paid": 181,
+            "push": 0,
+            "gravity": 181,
+            "activity": 0,
+            "content": 4,
+            "users": 6,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 205,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 303,
+          "values": {
+            "competition": 12,
+            "recommend": 4,
+            "search": 8,
+            "paid": 279,
+            "push": 0,
+            "gravity": 279,
+            "activity": 0,
+            "content": 5,
+            "users": 6,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 303,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-07": {
+          "total": 313,
+          "values": {
+            "competition": 11,
+            "recommend": 2,
+            "search": 9,
+            "paid": 296,
+            "push": 0,
+            "gravity": 296,
+            "activity": 0,
+            "content": 1,
+            "users": 3,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 313,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 227,
+          "values": {
+            "competition": 18,
+            "recommend": 6,
+            "search": 12,
+            "paid": 195,
+            "push": 0,
+            "gravity": 195,
+            "activity": 0,
+            "content": 2,
+            "users": 9,
+            "other": 3
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 227,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          },
+          "reported_changes": {
+            "total": {
+              "pct": -27.48,
+              "comparison_date": "2026-10-07"
+            },
+            "competition": {
+              "pct": 63.64,
+              "comparison_date": "2026-10-07"
+            },
+            "recommend": {
+              "pct": 200,
+              "comparison_date": "2026-10-07"
+            },
+            "search": {
+              "pct": 33.33,
+              "comparison_date": "2026-10-07"
+            },
+            "paid": {
+              "pct": -34.12,
+              "comparison_date": "2026-10-07"
+            },
+            "push": {
+              "pct": 0,
+              "comparison_date": "2026-10-07"
+            },
+            "gravity": {
+              "pct": -34.12,
+              "comparison_date": "2026-10-07"
+            },
+            "activity": {
+              "pct": 0,
+              "comparison_date": "2026-10-07"
+            },
+            "content": {
+              "pct": 100,
+              "comparison_date": "2026-10-07"
+            },
+            "users": {
+              "pct": 200,
+              "comparison_date": "2026-10-07"
+            },
+            "other": {
+              "pct": 50,
+              "comparison_date": "2026-10-07"
+            }
+          },
+          "comparison_date": "2026-10-07",
+          "reported_shares_pct": {
+            "total": 100,
+            "competition": 7.93,
+            "recommend": 2.64,
+            "search": 5.29,
+            "paid": 85.9,
+            "push": 0,
+            "gravity": 85.9,
+            "activity": 0,
+            "content": 0.88,
+            "users": 3.96,
+            "other": 1.32
+          }
+        },
+        "2026-09-28": {
+          "total": 115,
+          "values": {
+            "competition": 8,
+            "activity": 0,
+            "paid": 96,
+            "content": 4,
+            "users": 5,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 115,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 65,
+          "values": {
+            "competition": 13,
+            "activity": 0,
+            "paid": 43,
+            "content": 4,
+            "users": 5,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 65,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 73,
+          "values": {
+            "competition": 16,
+            "activity": 0,
+            "paid": 50,
+            "content": 0,
+            "users": 5,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 73,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 111,
+          "values": {
+            "competition": 14,
+            "activity": 0,
+            "paid": 88,
+            "content": 6,
+            "users": 3,
+            "other": 0,
+            "recommend": 2,
+            "search": 12,
+            "push": 0,
+            "gravity": 88
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 111,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 165,
+          "values": {
+            "competition": 10,
+            "recommend": 5,
+            "search": 5,
+            "paid": 154,
+            "push": 0,
+            "gravity": 154,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 165,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 228,
+          "values": {
+            "competition": 15,
+            "recommend": 6,
+            "search": 9,
+            "paid": 207,
+            "push": 0,
+            "gravity": 207,
+            "activity": 0,
+            "content": 0,
+            "users": 3,
+            "other": 3
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 228,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 244,
+          "values": {
+            "competition": 16,
+            "recommend": 2,
+            "search": 14,
+            "paid": 211,
+            "push": 0,
+            "gravity": 211,
+            "activity": 0,
+            "content": 6,
+            "users": 8,
+            "other": 3
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 244,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "74458859",
+      "newEvidence": null,
+      "verified_date": "2026-10-12"
+    },
+    "YX243800A": {
+      "code": "YX243800A",
+      "name": "戴妃款珍珠项链",
+      "backendNew": true,
+      "weekSales": 1,
+      "weekUv": 36,
+      "weekFavorites": 0,
+      "rank": 3,
+      "topObservation": true,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_sales_positive"
+      ],
+      "exclusionReason": null,
+      "group": "有销量款",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-07": {
+          "total": 10,
+          "values": {
+            "competition": 4,
+            "recommend": 0,
+            "search": 4,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 6,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 10,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 2,
+          "values": {
+            "competition": 2,
+            "recommend": 0,
+            "search": 2,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 2,
+          "values": {
+            "competition": 0,
+            "activity": 1,
+            "paid": 0,
+            "content": 1,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 4,
+          "values": {
+            "competition": 3,
+            "activity": 1,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 4,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 1,
+            "users": 3,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 2,
+          "values": {
+            "competition": 2,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 5,
+          "values": {
+            "competition": 3,
+            "activity": 1,
+            "paid": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 5,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 6,
+          "values": {
+            "competition": 4,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 6,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 7,
+          "values": {
+            "competition": 2,
+            "activity": 0,
+            "paid": 0,
+            "content": 2,
+            "users": 2,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 7,
+          "values": {
+            "competition": 4,
+            "activity": 2,
+            "paid": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 8,
+          "values": {
+            "competition": 5,
+            "activity": 2,
+            "paid": 0,
+            "content": 1,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 8,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 6,
+          "values": {
+            "competition": 4,
+            "recommend": 1,
+            "search": 3,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 1,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 6,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 3,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 1,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 3,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 6,
+          "values": {
+            "competition": 5,
+            "recommend": 0,
+            "search": 5,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 1,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 6,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "83373005",
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "verified_date": "2026-10-12"
+    },
+    "YX9339001": {
+      "code": "YX9339001",
+      "name": "转运小蛮腰",
+      "backendNew": false,
+      "weekSales": 1,
+      "weekUv": 34,
+      "weekFavorites": 1,
+      "rank": 4,
+      "topObservation": true,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_sales_positive"
+      ],
+      "exclusionReason": null,
+      "group": "有销量款",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-07": {
+          "total": 2,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 1,
+            "push": 0,
+            "gravity": 1,
+            "activity": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 7,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 3,
+            "push": 0,
+            "gravity": 3,
+            "activity": 0,
+            "content": 0,
+            "users": 3,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 4,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 3,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 5,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 2,
+            "content": 0,
+            "users": 3,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 5,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 6,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 6,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 6,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 27,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 22,
+            "content": 1,
+            "users": 3,
+            "other": 0,
+            "recommend": 0,
+            "search": 1,
+            "push": 0,
+            "gravity": 22
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 27,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 6,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 5,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 6,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 4,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 3,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 24,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 22,
+            "content": 1,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 24,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 21,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 19,
+            "content": 1,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 21,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 7,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 4,
+            "content": 0,
+            "users": 2,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 4,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 2,
+            "push": 0,
+            "gravity": 2,
+            "activity": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 5,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 2,
+            "push": 0,
+            "gravity": 2,
+            "activity": 0,
+            "content": 0,
+            "users": 2,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 5,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 9,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 5,
+            "push": 0,
+            "gravity": 5,
+            "activity": 0,
+            "content": 0,
+            "users": 3,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 9,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "47171559",
+      "newEvidence": null,
+      "verified_date": "2026-10-12"
+    },
+    "YX9640001": {
+      "code": "YX9640001",
+      "name": "鸢尾星芒黄水晶",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 148,
+      "weekFavorites": 28,
+      "rank": 5,
+      "topObservation": true,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "group": "新品观察",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-07": {
+          "total": 9,
+          "values": {
+            "competition": 5,
+            "recommend": 0,
+            "search": 5,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 1,
+            "content": 2,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 9,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 12,
+          "values": {
+            "competition": 9,
+            "recommend": 3,
+            "search": 6,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 1,
+            "content": 1,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 12,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 6,
+          "values": {
+            "competition": 3,
+            "activity": 1,
+            "paid": 0,
+            "content": 2,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 6,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 15,
+          "values": {
+            "competition": 12,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 1,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 15,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 25,
+          "values": {
+            "competition": 11,
+            "activity": 0,
+            "paid": 0,
+            "content": 13,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 25,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 44,
+          "values": {
+            "competition": 18,
+            "activity": 0,
+            "paid": 0,
+            "content": 25,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 44,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 68,
+          "values": {
+            "competition": 34,
+            "activity": 1,
+            "paid": 0,
+            "content": 27,
+            "users": 2,
+            "other": 4
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 68,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 47,
+          "values": {
+            "competition": 26,
+            "activity": 0,
+            "paid": 0,
+            "content": 21,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 47,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 44,
+          "values": {
+            "competition": 20,
+            "activity": 2,
+            "paid": 0,
+            "content": 21,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 44,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 34,
+          "values": {
+            "competition": 7,
+            "activity": 1,
+            "paid": 0,
+            "content": 24,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 34,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 4,
+          "values": {
+            "competition": 2,
+            "activity": 1,
+            "paid": 0,
+            "content": 1,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 12,
+          "values": {
+            "competition": 2,
+            "recommend": 0,
+            "search": 2,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 7,
+            "content": 1,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 12,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 41,
+          "values": {
+            "competition": 4,
+            "recommend": 4,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 2,
+            "content": 31,
+            "users": 2,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 41,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 57,
+          "values": {
+            "competition": 15,
+            "recommend": 1,
+            "search": 0,
+            "new_guarantee": 14,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 1,
+            "content": 37,
+            "users": 2,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 57,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "92671152",
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "verified_date": "2026-10-12"
+    },
+    "YX9638001": {
+      "code": "YX9638001",
+      "name": "薄荷蓝绿花朵",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 127,
+      "weekFavorites": 2,
+      "rank": 6,
+      "topObservation": true,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "group": "新品观察",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-07": {
+          "total": 4,
+          "values": {
+            "competition": 2,
+            "recommend": 0,
+            "search": 2,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 1,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 4,
+          "values": {
+            "competition": 2,
+            "recommend": 0,
+            "search": 2,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 1,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 71,
+          "values": {
+            "competition": 4,
+            "activity": 1,
+            "paid": 0,
+            "content": 62,
+            "users": 2,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 71,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 89,
+          "values": {
+            "competition": 3,
+            "activity": 3,
+            "paid": 0,
+            "content": 70,
+            "users": 6,
+            "other": 7
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 89,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 48,
+          "values": {
+            "competition": 5,
+            "activity": 0,
+            "paid": 0,
+            "content": 37,
+            "users": 2,
+            "other": 4
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 48,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 7,
+          "values": {
+            "competition": 3,
+            "activity": 0,
+            "paid": 0,
+            "content": 1,
+            "users": 3,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 10,
+          "values": {
+            "competition": 6,
+            "activity": 0,
+            "paid": 0,
+            "content": 1,
+            "users": 3,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 10,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 6,
+          "values": {
+            "competition": 3,
+            "activity": 0,
+            "paid": 0,
+            "content": 1,
+            "users": 1,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 6,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 4,
+          "values": {
+            "competition": 1,
+            "activity": 1,
+            "paid": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 7,
+          "values": {
+            "competition": 7,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 7,
+          "values": {
+            "competition": 3,
+            "activity": 1,
+            "paid": 0,
+            "content": 0,
+            "users": 3,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 20,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "paid": 13,
+            "push": 0,
+            "gravity": 13,
+            "activity": 0,
+            "content": 1,
+            "users": 2,
+            "other": 3
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 20,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 39,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "new_guarantee": 0,
+            "paid": 32,
+            "push": 0,
+            "gravity": 32,
+            "activity": 0,
+            "content": 1,
+            "users": 5,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 39,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 57,
+          "values": {
+            "competition": 3,
+            "recommend": 1,
+            "search": 2,
+            "new_guarantee": 0,
+            "paid": 46,
+            "push": 0,
+            "gravity": 46,
+            "activity": 1,
+            "content": 4,
+            "users": 2,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 57,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "87371133",
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "verified_date": "2026-10-12"
+    },
+    "YX9640002": {
+      "code": "YX9640002",
+      "name": "别针鸢尾花水滴星芒",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 70,
+      "weekFavorites": 25,
+      "rank": 7,
+      "topObservation": true,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "group": "新品观察",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-07": {
+          "total": 5,
+          "values": {
+            "competition": 3,
+            "recommend": 0,
+            "search": 3,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 1,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 5,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 1,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 2,
+          "values": {
+            "competition": 2,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 1,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 3,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 0,
+            "content": 1,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 3,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 33,
+          "values": {
+            "competition": 6,
+            "activity": 0,
+            "paid": 0,
+            "content": 25,
+            "users": 0,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 33,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 48,
+          "values": {
+            "competition": 15,
+            "activity": 0,
+            "paid": 0,
+            "content": 32,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 48,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 45,
+          "values": {
+            "competition": 23,
+            "activity": 0,
+            "paid": 0,
+            "content": 21,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 45,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 48,
+          "values": {
+            "competition": 18,
+            "activity": 1,
+            "paid": 0,
+            "content": 25,
+            "users": 4,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 48,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 26,
+          "values": {
+            "competition": 7,
+            "activity": 0,
+            "paid": 0,
+            "content": 18,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 26,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 8,
+          "values": {
+            "competition": 4,
+            "activity": 1,
+            "paid": 0,
+            "content": 0,
+            "users": 2,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 8,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 4,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 3,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 33,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 1,
+            "content": 32,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 33,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 10,
+          "values": {
+            "competition": 2,
+            "recommend": 2,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 3,
+            "content": 1,
+            "users": 3,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 10,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "92804342",
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "verified_date": "2026-10-12"
+    },
+    "YX9545001": {
+      "code": "YX9545001",
+      "name": "双葫芦流苏",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 41,
+      "weekFavorites": 1,
+      "rank": 8,
+      "topObservation": true,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "group": "新品观察",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-07": {
+          "total": 7,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 6,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 4,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 4,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 19,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 0,
+            "content": 18,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 19,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 15,
+          "values": {
+            "competition": 2,
+            "activity": 0,
+            "paid": 0,
+            "content": 11,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 15,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 22,
+          "values": {
+            "competition": 4,
+            "activity": 0,
+            "paid": 0,
+            "content": 11,
+            "users": 2,
+            "other": 5
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 22,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 10,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 6,
+            "users": 2,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 10,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 8,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 8,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 8,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 9,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 0,
+            "content": 8,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 9,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 7,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 6,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 4,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 4,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 12,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 10,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 12,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 5,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 5,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 5,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 9,
+          "values": {
+            "competition": 3,
+            "recommend": 0,
+            "search": 3,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 4,
+            "users": 1,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 9,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 3,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 3,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 3,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "84165066",
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "verified_date": "2026-10-12"
+    },
+    "YX243900A": {
+      "code": "YX243900A",
+      "name": "碎银几两项链",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 40,
+      "weekFavorites": 1,
+      "rank": 9,
+      "topObservation": true,
+      "eligible": true,
+      "eligibilityReasons": [
+        "new_watch"
+      ],
+      "exclusionReason": null,
+      "group": "新品观察",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-07": {
+          "total": 6,
+          "values": {
+            "competition": 2,
+            "recommend": 0,
+            "search": 2,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 2,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 6,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 3,
+          "values": {
+            "competition": 2,
+            "recommend": 1,
+            "search": 1,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 1,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 3,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 5,
+          "values": {
+            "competition": 2,
+            "activity": 2,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 5,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 7,
+          "values": {
+            "competition": 0,
+            "activity": 2,
+            "paid": 0,
+            "content": 0,
+            "users": 4,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 12,
+          "values": {
+            "competition": 7,
+            "activity": 2,
+            "paid": 0,
+            "content": 0,
+            "users": 3,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 12,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 9,
+          "values": {
+            "competition": 4,
+            "activity": 3,
+            "paid": 0,
+            "content": 0,
+            "users": 1,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 9,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 11,
+          "values": {
+            "competition": 4,
+            "activity": 4,
+            "paid": 0,
+            "content": 0,
+            "users": 3,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 11,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 4,
+          "values": {
+            "competition": 2,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 7,
+          "values": {
+            "competition": 3,
+            "activity": 2,
+            "paid": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 6,
+          "values": {
+            "competition": 1,
+            "activity": 5,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 6,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 11,
+          "values": {
+            "competition": 2,
+            "activity": 3,
+            "paid": 0,
+            "content": 0,
+            "users": 6,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 11,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 7,
+          "values": {
+            "competition": 2,
+            "recommend": 0,
+            "search": 2,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 3,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 7,
+          "values": {
+            "competition": 3,
+            "recommend": 0,
+            "search": 3,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 2,
+            "users": 1,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 7,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 3,
+          "values": {
+            "competition": 2,
+            "recommend": 0,
+            "search": 2,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 1,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 3,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "83372779",
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "verified_date": "2026-10-12"
+    },
+    "YX9524001": {
+      "code": "YX9524001",
+      "name": "H字母小蛮腰",
+      "backendNew": false,
+      "weekSales": 0,
+      "weekUv": 30,
+      "weekFavorites": 4,
+      "rank": 10,
+      "topObservation": true,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "group": "有收藏款",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {},
+      "source_status": "not_exposed_in_backend",
+      "source_note": "2026-10-12逐款复核仅核心指标入口；保留经营和底部年龄画像。",
+      "verified_date": "2026-10-12",
+      "verified_period": {
+        "start": "2026-10-02",
+        "end": "2026-10-08",
+        "preset": "近7天"
+      },
+      "source": "parent_relay_of_backend_ui_verification",
+      "spuId": "71261670",
+      "newEvidence": null
+    },
+    "YX9611001": {
+      "code": "YX9611001",
+      "days": {
+        "2026-09-28": {
+          "total": 2,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 2,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 7,
+          "values": {
+            "competition": 2,
+            "activity": 0,
+            "paid": 0,
+            "content": 3,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 7,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 3,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 3,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 3,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 4,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 0,
+            "content": 2,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 5,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 0,
+            "content": 1,
+            "users": 3,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 5,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 2,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 10,
+          "values": {
+            "competition": 2,
+            "activity": 0,
+            "paid": 0,
+            "content": 4,
+            "users": 4,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 10,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 3,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 2,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 3,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 3,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 2,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 3,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-07": {
+          "total": 5,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 4,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 5,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 9,
+          "values": {
+            "competition": 2,
+            "activity": 0,
+            "paid": 0,
+            "content": 4,
+            "users": 3,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 9,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 6,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 3,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 6,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 3,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 3,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 3,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "name": "冰花蓝眼泪",
+      "backendNew": false,
+      "weekSales": 0,
+      "weekUv": 27,
+      "weekFavorites": 1,
+      "group": "有收藏款",
+      "spuId": "74612435",
+      "confirmedListingDate": null,
+      "newEvidence": null,
+      "rank": 11,
+      "eligible": true,
+      "topObservation": false,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "source_note": "09/28—10/11连续14日已实采。",
+      "verified_date": "2026-10-12"
+    },
+    "YX9341001": {
+      "code": "YX9341001",
+      "name": "福禄葫芦",
+      "backendNew": false,
+      "weekSales": 0,
+      "weekUv": 17,
+      "weekFavorites": 2,
+      "rank": 12,
+      "topObservation": false,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "group": "有收藏款",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-09": {
+          "total": 4,
+          "values": {
+            "competition": 2,
+            "recommend": 0,
+            "search": 2,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-08": {
+          "total": 1,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-07": {
+          "total": 3,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 2,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 3,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-06": {
+          "total": 2,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-05": {
+          "total": 3,
+          "values": {
+            "competition": 1,
+            "recommend": 1,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 1,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 3,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-04": {
+          "total": 1,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-03": {
+          "total": 1,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-02": {
+          "total": 2,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-01": {
+          "total": 10,
+          "values": {
+            "competition": 7,
+            "recommend": 0,
+            "search": 7,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 2,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 10,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-09-30": {
+          "total": 3,
+          "values": {
+            "competition": 1,
+            "recommend": 1,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 3,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-09-29": {
+          "total": 13,
+          "values": {
+            "competition": 8,
+            "recommend": 1,
+            "search": 7,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 5,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 13,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-09-28": {
+          "total": 3,
+          "values": {
+            "competition": 2,
+            "recommend": 0,
+            "search": 2,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 3,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-10": {
+          "total": 5,
+          "values": {
+            "competition": 4,
+            "recommend": 0,
+            "search": 4,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 5,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 3,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 3,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 3,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "verified_date": "2026-10-12",
+      "verified_period": {
+        "start": "2026-10-03",
+        "end": "2026-10-09",
+        "preset": "近7天"
+      },
+      "source": "observed_backend_ui",
+      "spuId": "47054557",
+      "newEvidence": null
+    },
+    "YX9501001": {
+      "code": "YX9501001",
+      "name": "小猫蝴蝶结",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 13,
+      "weekFavorites": 1,
+      "rank": 13,
+      "topObservation": false,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "group": "新品观察",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {},
+      "source_status": "not_exposed_in_backend",
+      "source_note": "2026-10-12逐款复核仅核心指标入口；保留经营和底部年龄画像。",
+      "verified_date": "2026-10-12",
+      "verified_period": {
+        "start": "2026-10-02",
+        "end": "2026-10-08",
+        "preset": "近7天"
+      },
+      "source": "parent_relay_of_backend_ui_verification",
+      "spuId": "84138350",
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认"
+    },
+    "YS407600A": {
+      "code": "YS407600A",
+      "name": "碎银几两手链",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 11,
+      "weekFavorites": 1,
+      "rank": 14,
+      "topObservation": false,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "group": "新品观察",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-07": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 4,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 1,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 2,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 4,
+          "values": {
+            "competition": 3,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 4,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "activity": 1,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 2,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 2,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 2,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 1,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 3,
+          "values": {
+            "competition": 0,
+            "activity": 1,
+            "paid": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 3,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 2,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 2,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 2,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 2,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 2,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "83378469",
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "verified_date": "2026-10-12"
+    },
+    "YH9380001": {
+      "code": "YH9380001",
+      "name": "璀璨星光耳钉",
+      "backendNew": false,
+      "weekSales": 0,
+      "weekUv": 6,
+      "weekFavorites": 1,
+      "rank": 15,
+      "topObservation": false,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "group": "有收藏款",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {},
+      "source_status": "not_exposed_in_backend",
+      "source_note": "2026-10-12逐款复核仅核心指标入口；保留经营和底部年龄画像。",
+      "verified_date": "2026-10-12",
+      "verified_period": {
+        "start": "2026-10-02",
+        "end": "2026-10-08",
+        "preset": "近7天"
+      },
+      "source": "parent_relay_of_backend_ui_verification",
+      "spuId": "47140121",
+      "newEvidence": null
+    },
+    "YX9340001": {
+      "code": "YX9340001",
+      "name": "幸运四叶草珍珠",
+      "backendNew": false,
+      "weekSales": 0,
+      "weekUv": 6,
+      "weekFavorites": 1,
+      "rank": 16,
+      "topObservation": false,
+      "eligible": true,
+      "eligibilityReasons": [
+        "week_favorites_positive"
+      ],
+      "exclusionReason": null,
+      "group": "有收藏款",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {},
+      "source_status": "not_exposed_in_backend",
+      "source_note": "2026-10-12逐款复核仅核心指标入口；保留经营和底部年龄画像。",
+      "verified_date": "2026-10-12",
+      "verified_period": {
+        "start": "2026-10-02",
+        "end": "2026-10-08",
+        "preset": "近7天"
+      },
+      "source": "parent_relay_of_backend_ui_verification",
+      "spuId": "47057533",
+      "newEvidence": null
+    },
+    "YX9343001": {
+      "code": "YX9343001",
+      "days": {},
+      "name": "一个熊抱",
+      "backendNew": false,
+      "weekSales": 0,
+      "weekUv": 4,
+      "weekFavorites": 1,
+      "spuId": "49924313",
+      "confirmedListingDate": null,
+      "newEvidence": null,
+      "group": "有收藏款",
+      "rank": 17,
+      "eligible": true,
+      "topObservation": false,
+      "source_status": "not_exposed_in_backend",
+      "verified_date": "2026-10-12",
+      "source_note": "2026-10-12逐款复核仅核心指标入口；保留经营和底部年龄画像。"
+    },
+    "YX9648001": {
+      "code": "YX9648001",
+      "name": "镀金粉心四叶草",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 4,
+      "weekFavorites": 0,
+      "rank": 18,
+      "topObservation": false,
+      "eligible": true,
+      "eligibilityReasons": [
+        "new_watch"
+      ],
+      "exclusionReason": null,
+      "group": "新品观察",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-07": {
+          "total": 1,
+          "values": {
+            "competition": 1,
+            "recommend": 0,
+            "search": 1,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 1,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 1,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "87365359",
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "verified_date": "2026-10-12"
+    },
+    "YX9499001": {
+      "code": "YX9499001",
+      "days": {},
+      "name": "云层甜裙",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 2,
+      "weekFavorites": 0,
+      "spuId": "84425317",
+      "confirmedListingDate": null,
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "group": "新品观察",
+      "rank": 19,
+      "eligible": true,
+      "topObservation": false,
+      "source_status": "not_exposed_in_backend",
+      "verified_date": "2026-10-12",
+      "source_note": "2026-10-12逐款复核仅核心指标入口；保留经营和底部年龄画像。"
+    },
+    "YX9507001": {
+      "code": "YX9507001",
+      "days": {
+        "2026-10-09": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-10": {
+          "total": 2,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 2
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 2,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        }
+      },
+      "name": "圆形荟萃项链",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 1,
+      "weekFavorites": 0,
+      "spuId": "95616011",
+      "confirmedListingDate": null,
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "group": "新品观察",
+      "rank": 20,
+      "eligible": true,
+      "topObservation": false,
+      "source_status": "observed",
+      "verified_date": "2026-10-12",
+      "source_note": "本次新增商品，10/09—10/11来源日值已实采；更早经营查询未返回商品记录。"
+    },
+    "YS9542001": {
+      "code": "YS9542001",
+      "days": {
+        "2026-10-09": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-10": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        }
+      },
+      "name": "八芒星星手链",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 0,
+      "weekFavorites": 0,
+      "spuId": "95626979",
+      "confirmedListingDate": null,
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "group": "新品观察",
+      "rank": 21,
+      "eligible": true,
+      "topObservation": false,
+      "source_status": "observed",
+      "verified_date": "2026-10-12",
+      "source_note": "本次新增商品，10/09—10/11来源日值已实采；更早经营查询未返回商品记录。"
+    },
+    "YX9498001": {
+      "code": "YX9498001",
+      "days": {
+        "2026-10-09": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-10": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        }
+      },
+      "name": "天使羽翼星芒",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 0,
+      "weekFavorites": 0,
+      "spuId": "95598789",
+      "confirmedListingDate": null,
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "group": "新品观察",
+      "rank": 22,
+      "eligible": true,
+      "topObservation": false,
+      "source_status": "observed",
+      "verified_date": "2026-10-12",
+      "source_note": "本次新增商品，10/09—10/11来源日值已实采；更早经营查询未返回商品记录。"
+    },
+    "YX9500001": {
+      "code": "YX9500001",
+      "days": {
+        "2026-10-09": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-10": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        }
+      },
+      "name": "渐变圆形微笑弧线",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 0,
+      "weekFavorites": 0,
+      "spuId": "95604406",
+      "confirmedListingDate": null,
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "group": "新品观察",
+      "rank": 23,
+      "eligible": true,
+      "topObservation": false,
+      "source_status": "observed",
+      "verified_date": "2026-10-12",
+      "source_note": "本次新增商品，10/09—10/11来源日值已实采；更早经营查询未返回商品记录。"
+    },
+    "YX9537001": {
+      "code": "YX9537001",
+      "days": {
+        "2026-10-09": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_daily_filter",
+            "collected_date": "2026-10-11"
+          }
+        },
+        "2026-10-10": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        }
+      },
+      "name": "星球星芒项链",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 0,
+      "weekFavorites": 0,
+      "spuId": "95626912",
+      "confirmedListingDate": null,
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "group": "新品观察",
+      "rank": 24,
+      "eligible": true,
+      "topObservation": false,
+      "source_status": "observed",
+      "verified_date": "2026-10-12",
+      "source_note": "本次新增商品，10/09—10/11来源日值已实采；更早经营查询未返回商品记录。"
+    },
+    "YX9648002": {
+      "code": "YX9648002",
+      "name": "白金色四叶草多坠",
+      "backendNew": true,
+      "weekSales": 0,
+      "weekUv": 0,
+      "weekFavorites": 0,
+      "rank": 25,
+      "topObservation": false,
+      "eligible": true,
+      "eligibilityReasons": [
+        "new_watch"
+      ],
+      "exclusionReason": null,
+      "group": "新品观察",
+      "confirmedListingDate": null,
+      "listingDateStatus": "待确认",
+      "days": {
+        "2026-10-07": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-08": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-28": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "activity": 1,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-29": {
+          "total": 1,
+          "values": {
+            "competition": 1,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-09-30": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-01": {
+          "total": 1,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 1
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 1,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-02": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-03": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-04": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-05": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-06": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "activity": 0,
+            "paid": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_chart_tooltip",
+            "description": "得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-09": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "primary_sum": 0,
+          "primary_sum_matches_total": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-10"
+          }
+        },
+        "2026-10-10": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-11"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        },
+        "2026-10-11": {
+          "total": 0,
+          "values": {
+            "competition": 0,
+            "recommend": 0,
+            "search": 0,
+            "new_guarantee": 0,
+            "paid": 0,
+            "push": 0,
+            "gravity": 0,
+            "activity": 0,
+            "content": 0,
+            "users": 0,
+            "other": 0
+          },
+          "observed": true,
+          "primary_complete": true,
+          "source": {
+            "kind": "observed_ui_channel_table",
+            "collected_date": "2026-10-12"
+          },
+          "primary_sum": 0,
+          "primary_sum_matches_total": true
+        }
+      },
+      "source_status": "observed",
+      "source_note": "09/28—10/11连续14日已实采。",
+      "spuId": "87381559",
+      "newEvidence": "2026-10-12后台新上架全量名单与类目官方导出交集；首次上架日待确认",
+      "verified_date": "2026-10-12"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "得物商品数据运营"
+  short_description: "每日筛选流行饰品/眼镜/服配，跟踪销量头部款与新品潜力，并用证据排查流量和转化异常"
+  default_prompt: "使用 $dewu-product-analytics 整理得物昨日商品数据，分析头部款异常和新品潜力。"

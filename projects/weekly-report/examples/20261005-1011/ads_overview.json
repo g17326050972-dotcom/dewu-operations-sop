@@ -1,0 +1,22 @@
+{
+  "period": [
+    "2026-10-05",
+    "2026-10-11"
+  ],
+  "snapshot_at": "2026-10-12 11:11",
+  "source": "得物商家后台 > 营销 > 推广首页 > 数据概览 > 展开趋势图",
+  "include_one_click_boost": true,
+  "spend": 4639.75,
+  "clicks": 14733,
+  "ctr_percent": 9.19,
+  "product_detail_visit_cost": 0.45,
+  "direct_paid_orders": 19,
+  "direct_payment_amount": 4997,
+  "direct_payment_roi": 1.08,
+  "guided_paid_orders": 31,
+  "guided_payment_amount": 8774,
+  "guided_payment_roi": 1.89,
+  "guided_payment_amount_after_discount": 8774,
+  "guided_payment_roi_after_discount": 1.89,
+  "note": "广告归因口径，可能与直接支付重叠并随后续回传更新，不与全店有效销售相加。ROI并非利润率。"
+}

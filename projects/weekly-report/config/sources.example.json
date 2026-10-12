@@ -1,0 +1,10 @@
+{
+  "period": [
+    "2026-10-05",
+    "2026-10-11"
+  ],
+  "snapshot": "2026-10-12",
+  "orders": "../data/private/orders.xlsx",
+  "aftersales": "../data/private/aftersales.xlsx",
+  "products": "../data/private/products.xlsx"
+}

@@ -1,0 +1,26 @@
+{
+  "period": [
+    "2026-10-05",
+    "2026-10-11"
+  ],
+  "source": "交易分析 > 交易概览 > 优惠后 > 全店 > 近7天",
+  "data_through": "2026-10-11 23:59:59",
+  "detail_uv": 36948,
+  "detail_uv_wow_percent": 27.87,
+  "detail_conversion_percent": 0.35,
+  "submitted_orders": 144,
+  "submitted_orders_wow_percent": -7.1,
+  "submitted_amount": 50603,
+  "submitted_buyers": 130,
+  "payment_conversion_percent": 86.81,
+  "paid_orders": 125,
+  "paid_orders_wow_percent": -5.3,
+  "paid_amount": 41307,
+  "paid_amount_wow_percent": -12.54,
+  "average_paid_order": 330.46,
+  "average_paid_order_wow_percent": -7.64,
+  "fulfillment_percent": 76,
+  "success_orders": 95,
+  "success_amount": 32840,
+  "success_note": "后台交易成功指标为所选期间发生的成功交易，和本周创建订单截至10月12日的当前状态不是同一队列；不替代订单逐单核对后的有效销售。"
+}

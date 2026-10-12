@@ -1,0 +1,84 @@
+{
+  "period": [
+    "2026-10-05",
+    "2026-10-11"
+  ],
+  "source": "得物引力 Edge 当前已登录页面",
+  "created_main_tasks": 4,
+  "created_task_date": "2026-10-11",
+  "created_tasks": [
+    {
+      "id": "T17916989645699970",
+      "creator": "电子蝴蝶的反击",
+      "created": "2026-10-11 14:09:24"
+    },
+    {
+      "id": "T17916988217919970",
+      "creator": "捌月小狮子",
+      "created": "2026-10-11 14:07:01"
+    },
+    {
+      "id": "T17916987511709970",
+      "creator": "王慢慢快跑",
+      "created": "2026-10-11 14:05:51"
+    },
+    {
+      "id": "T17916986742639970",
+      "creator": "糊涂静静子",
+      "created": "2026-10-11 14:04:34"
+    }
+  ],
+  "created_count_evidence": "全部主任务按创建时间倒序，前4条为10月11日，第5条为9月30日",
+  "pending_acceptance": {
+    "count": 0,
+    "snapshot": "2026-10-12 10:42",
+    "evidence": "发布后跟进→待验收，暂无【待验收】任务"
+  },
+  "accepted_content": [
+    {
+      "task_id": "S17905606054010918",
+      "creator": "枳川大",
+      "sku": "YX9638001",
+      "product": "花朵项链",
+      "title": "布契拉提暂时买不起🥹买布契拉提拉丝🌼总可以叭！",
+      "accepted_at": "2026-10-09 20:42:38",
+      "task_page_published_at": "2026-10-09 20:42:38",
+      "actual_published_at": "2026-10-09 13:39:33",
+      "content_id": "535391676",
+      "content_url": "https://m.dewu.com/h5-sociality/community/community-share?trendId=535391676",
+      "metrics_as_of": "2026-10-12 07:55:47",
+      "impressions": 705,
+      "reads": 134,
+      "interactions": 1,
+      "detail_visits": 57,
+      "ctr_percent": 19,
+      "detail_rate_percent": 42.53,
+      "attribution_14d_gmv": 0,
+      "attribution_14d_orders": 0,
+      "attribution_note": "10月12日最新任务报告导出明确为0元/0单，归因窗口仍可能更新"
+    },
+    {
+      "task_id": "S17906500196029187",
+      "creator": "麦麦子z",
+      "sku": "YX9638001",
+      "product": "花朵项链",
+      "title": "Vintage🩵薄荷蓝花朵项链 泰闪啦！",
+      "accepted_at": "2026-10-11 15:54:30",
+      "task_page_published_at": "2026-10-11 15:54:30",
+      "actual_published_at": "2026-10-11 09:08:20",
+      "content_id": "535932649",
+      "content_url": "https://m.dewu.com/h5-sociality/community/community-share?trendId=535932649",
+      "metrics_as_of": "2026-10-12 07:33:03",
+      "impressions": 747,
+      "reads": 58,
+      "interactions": 2,
+      "detail_visits": 15,
+      "ctr_percent": 7.76,
+      "detail_rate_percent": 25.86,
+      "attribution_14d_gmv": 0,
+      "attribution_14d_orders": 0
+    }
+  ],
+  "verification_status": "Completed: created4 accepted2 current pending0; weekly traffic recorded separately in gravity_weekly.json",
+  "accepted_count": 2
+}

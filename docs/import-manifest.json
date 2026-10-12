@@ -1,0 +1,633 @@
+{
+  "snapshot_date": "2026-10-12",
+  "section": "得物运营SOP",
+  "source_policy": "7个项目的技能、源代码与汇总页面；不包含聊天逐字记录、原始订单/售后、联系人地址、凭据、浏览器状态或云站点部署身份文件。",
+  "files": [
+    {
+      "module": "dewu-jewelry-new-product",
+      "path": "skills/dewu-jewelry-new-product/SKILL.md",
+      "bytes": 12175,
+      "sha256": "7e8abc27c7e1a0d5e6f46cb920c50861f944a458f7dafb9995d2a39c992c6a78"
+    },
+    {
+      "module": "dewu-jewelry-new-product",
+      "path": "skills/dewu-jewelry-new-product/agents/openai.yaml",
+      "bytes": 344,
+      "sha256": "0e37d2604221551e65b6203a160d5592ef09f9804602a54f660fb1ca826c3a13"
+    },
+    {
+      "module": "dewu-jewelry-new-product",
+      "path": "skills/dewu-jewelry-new-product/references/batch-drafts.md",
+      "bytes": 2675,
+      "sha256": "a8aed0db12605825ead335f04bea32938d7bfe48fc74eb5e4673f6eaa75fe95c"
+    },
+    {
+      "module": "dewu-jewelry-new-product",
+      "path": "skills/dewu-jewelry-new-product/references/ui-recovery.md",
+      "bytes": 2395,
+      "sha256": "3713d50bfe528d244cc1bbcd30d5beb228274ca1835ebfe494e59bb58fa2ba19"
+    },
+    {
+      "module": "dewu-merchant-pool-code",
+      "path": "skills/dewu-merchant-pool-code/SKILL.md",
+      "bytes": 6658,
+      "sha256": "3fed5502dd4dfe35886a53884b017f83662ecbef6c9aedf67b23973e5e1cfe66"
+    },
+    {
+      "module": "dewu-merchant-pool-code",
+      "path": "skills/dewu-merchant-pool-code/agents/openai.yaml",
+      "bytes": 343,
+      "sha256": "83ba1d7aabc1e543db9162ebb654d3825146a23445154a5a3520d1fa04da713a"
+    },
+    {
+      "module": "dewu-merchant-pool-code",
+      "path": "skills/dewu-merchant-pool-code/references/recording-evidence.md",
+      "bytes": 2707,
+      "sha256": "816af175d2ed14d01de8ac6c89cf54457cfa4836ffdf157f25d428b637e52e68"
+    },
+    {
+      "module": "dewu-confirm-bid-discount",
+      "path": "skills/dewu-confirm-bid-discount/SKILL.md",
+      "bytes": 11759,
+      "sha256": "af4f9c06042691bfb7f25793da1588d61d9e35c8aaa2edfcad5e27cfdbaa2d58"
+    },
+    {
+      "module": "dewu-confirm-bid-discount",
+      "path": "skills/dewu-confirm-bid-discount/agents/openai.yaml",
+      "bytes": 370,
+      "sha256": "1ea08fdea0f0e801c15f6925176619c90c9f5eaa4a50d8c7ef2946be69d9491a"
+    },
+    {
+      "module": "dewu-confirm-bid-discount",
+      "path": "skills/dewu-confirm-bid-discount/references/recording-evidence.md",
+      "bytes": 7834,
+      "sha256": "372e5ca41379ffbc76e44fdf10d6a569a0d9885345002e87d6f19098e4e129e9"
+    },
+    {
+      "module": "dewu-confirm-bid-discount",
+      "path": "skills/dewu-confirm-bid-discount/scripts/price_for_takehome.py",
+      "bytes": 3693,
+      "sha256": "ff661f0ee836ad5070db6baf2dba7b786985cd5a65e549e5ad88cdf400a150da"
+    },
+    {
+      "module": "dewu-product-analytics",
+      "path": "skills/dewu-product-analytics/SKILL.md",
+      "bytes": 14980,
+      "sha256": "6372164d84b898401e09306f1d89b007196d9c2014ec7d1a6f47feb0e4075ef5"
+    },
+    {
+      "module": "dewu-product-analytics",
+      "path": "skills/dewu-product-analytics/agents/openai.yaml",
+      "bytes": 321,
+      "sha256": "24cd787fde3ed81e9a2e1481b5fcc3c866b5c24855f3227d605af3b9a8598017"
+    },
+    {
+      "module": "dewu-product-analytics",
+      "path": "skills/dewu-product-analytics/references/action-plan.md",
+      "bytes": 10063,
+      "sha256": "014dd71990ed6bab9abdf83610b0ac6e0c6bc9d5bbc57d20d693a82390c4309c"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/images/H8177001.jpeg",
+      "bytes": 18203,
+      "sha256": "7ce0ee1702232d1932a8dce446a35a388d0d68ef61d48fb5638129949c8b79a2"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/images/S2245001.jpg",
+      "bytes": 39161,
+      "sha256": "9195b77367d63c8e0ef83be2e48fc50f18be95ce1019c9d4cb1139ba2fafc9b0"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/images/X1818002.jpg",
+      "bytes": 56545,
+      "sha256": "93a669d85cfc824a4c46c6d28eda15db4862df11023a704788411d7a1fcf9c51"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/images/X2117005.jpeg",
+      "bytes": 211891,
+      "sha256": "98bf7f1a57645da1d5122386b67ff12bd2a799d92720562b0ce87cadb849f73f"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/images/X9315001T.jpg",
+      "bytes": 164681,
+      "sha256": "844bbd3ac0a28b4191f08ca265fe05853e40d06f3e177cf51cf542bc468900b2"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/images/YH9389002.jpeg",
+      "bytes": 10151,
+      "sha256": "b8593dea2697bf146420d57a7a3bd8a38fa185c6ca7c21fc1eba73987fac2513"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/images/YX6829001.jpeg",
+      "bytes": 66951,
+      "sha256": "027b2ce731a1ab1d20685035472560b2a6909e068a077ad349f79b70a5ba99d4"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/images/YX6952001.jpeg",
+      "bytes": 15113,
+      "sha256": "5f3165bc26bfcb275a271e27665514a199266320826f3f425a71e02ea8bdabb2"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/images/YX9354001.jpeg",
+      "bytes": 105230,
+      "sha256": "2b1e5b3474a0077eec16413125388f73c20d141e0e8abb4d1719d637a51c545b"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/images/YX9615001.jpg",
+      "bytes": 70087,
+      "sha256": "6a0360a4f65ff7a3b96373a389b9908736765b5fd24c8d202a124dcf8b4bb221"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/index.html",
+      "bytes": 73280,
+      "sha256": "811545fd5200d1aa0008c9d6ffa77f5a94502f1ca72e1635c4ef3d5cf8892d46"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/site/sku-reconciliation.csv",
+      "bytes": 12261,
+      "sha256": "b7b5ccb6da0269a3a2d8f165bc6766e7a1c5524559f460fbe946dbdf9ed15cfb"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/images/H8177001.jpeg",
+      "bytes": 18203,
+      "sha256": "7ce0ee1702232d1932a8dce446a35a388d0d68ef61d48fb5638129949c8b79a2"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/images/S2245001.jpg",
+      "bytes": 39161,
+      "sha256": "9195b77367d63c8e0ef83be2e48fc50f18be95ce1019c9d4cb1139ba2fafc9b0"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/images/X1818002.jpg",
+      "bytes": 56545,
+      "sha256": "93a669d85cfc824a4c46c6d28eda15db4862df11023a704788411d7a1fcf9c51"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/images/X2117005.jpeg",
+      "bytes": 211891,
+      "sha256": "98bf7f1a57645da1d5122386b67ff12bd2a799d92720562b0ce87cadb849f73f"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/images/X9315001T.jpg",
+      "bytes": 164681,
+      "sha256": "844bbd3ac0a28b4191f08ca265fe05853e40d06f3e177cf51cf542bc468900b2"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/images/YH9389002.jpeg",
+      "bytes": 10151,
+      "sha256": "b8593dea2697bf146420d57a7a3bd8a38fa185c6ca7c21fc1eba73987fac2513"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/images/YX6829001.jpeg",
+      "bytes": 66951,
+      "sha256": "027b2ce731a1ab1d20685035472560b2a6909e068a077ad349f79b70a5ba99d4"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/images/YX6952001.jpeg",
+      "bytes": 15113,
+      "sha256": "5f3165bc26bfcb275a271e27665514a199266320826f3f425a71e02ea8bdabb2"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/images/YX9354001.jpeg",
+      "bytes": 105230,
+      "sha256": "2b1e5b3474a0077eec16413125388f73c20d141e0e8abb4d1719d637a51c545b"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/examples/20261005-1011/images/YX9615001.jpg",
+      "bytes": 70087,
+      "sha256": "6a0360a4f65ff7a3b96373a389b9908736765b5fd24c8d202a124dcf8b4bb221"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/archive/monthly-profit/analyze_profit.py",
+      "bytes": 7441,
+      "sha256": "f9864a0acae262274d2050dc541de6699e3cf11015b54ddde73d4299db743ead"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/archive/monthly-profit/match_settlement.py",
+      "bytes": 2677,
+      "sha256": "1d92f1f6e92ecaa1e0161ae17e7a57dce39808ebabc328efecd3c8538c25c44b"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/archive/monthly-profit/build_profit.mjs",
+      "bytes": 17166,
+      "sha256": "ee3f80a069a87185e2f85ff2e337a3f6be77e72f47cde477431f09a708415837"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/archive/20260907-0913/build_report.py",
+      "bytes": 25231,
+      "sha256": "f2294e4055c2b2ed65e730783cfe1fa9541a623355dc70b646b4d9370f946350"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/archive/20260921-0927/build_report.py",
+      "bytes": 37235,
+      "sha256": "8f8b15853196235dbf3f1f99ee5674374ac6d168686aab124386f17485b42153"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/archive/20260921-0927/analyze_orders.py",
+      "bytes": 16620,
+      "sha256": "8cfda16caf3b66ad4d93b9533011d02cadbc00d96d6c43c9f4cb490a7a5335ce"
+    },
+    {
+      "module": "得物周报",
+      "path": "projects/weekly-report/archive/20260921-0927/analyze_products.py",
+      "bytes": 9232,
+      "sha256": "5d18ac8e6567b6e0a524fd7b537045f0f8dda6aaee9fc48135bf8fff3028fdbe"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/audit_activity_template.py",
+      "bytes": 5755,
+      "sha256": "7b31ea532002bed810b77cf34f01552f060bb7ef6cdf60c2c235f47fde9c0e8c"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/audit_compact_activity.py",
+      "bytes": 5122,
+      "sha256": "0a5648d5fdaf3a5b6dd818f87c8a0f1971631cef60a72fa7b775b66b171cdd38"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/audit_readback_activity.py",
+      "bytes": 10207,
+      "sha256": "4a54fada26d97ff563f20c98981ff41b01d68884d041df7051eebde03a139588"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/audit_spu_2930783_actual_ceil.py",
+      "bytes": 6884,
+      "sha256": "d382089dc8ecd0c8e2b09d50bcfbab75913ccd866a2b947f51d9970729b74618"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/build_activity_upload.mjs",
+      "bytes": 10768,
+      "sha256": "fda314e0d09434d06ded8dff1ef8fc9f0dcbe09e4de61ac59642f1d590d32a67"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/inspect_activity_exports.py",
+      "bytes": 1281,
+      "sha256": "8f1ac996d91560bdb941f256cb8be418322130b9abc1a49b336de9dc6fecc087"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/plan_activity.py",
+      "bytes": 20146,
+      "sha256": "bacc7c18e9ee0295645ab7a1d9c32719e5cf5ef9d3397372503ef88c222d448b"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/plan_activity_2813342.py",
+      "bytes": 10056,
+      "sha256": "a4a0caac78a8154fb7981f38d63bc8b1bcd15e0b835df54322900f6d8cb7d6ca"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/plan_spu_2930783.py",
+      "bytes": 6588,
+      "sha256": "91f8e271cff81a0f67b29e4319f80f88fd333286463e4598cc754389cf631594"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/read_catalog.py",
+      "bytes": 7241,
+      "sha256": "34018b963343cd37eec1e81fc9ef7f34e6adcb86b248d9e7338b7b3e0cba5b81"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/template_api_help.mjs",
+      "bytes": 237,
+      "sha256": "4a50c8dd30c42edf6f5c993d906e3d03b5e5f6e9efdd393c53b08c0b9323a912"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/report/README.md",
+      "bytes": 4378,
+      "sha256": "1c3171612259b62754a69eb3d8ccedb191baff19afd315caec0afb79afccbd6b"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/report/build_report.mjs",
+      "bytes": 17991,
+      "sha256": "127f82439cf9fbdaa2ce595acafe8f0ab15d87bf47fcda716a6b64d3834b9884"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/report/collect_report.py",
+      "bytes": 22948,
+      "sha256": "45252ed4e8f00c4779af15e13e927d32374e2d1bf2d4f34f0b2769bf86654a68"
+    },
+    {
+      "module": "活动报名",
+      "path": "projects/activity-enrollment/work/report/validate_report.py",
+      "bytes": 4590,
+      "sha256": "a2eb71d60f0c3cee5aebb3ba4ca497aa0491018b2dd6c3c2357c09eaa26d1de2"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/add-age-20261010.py",
+      "bytes": 11306,
+      "sha256": "f030883b22f1e79671f70209d1f50970fb35031fea380ded57c5ef86000d7253"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/assemble_daily.py",
+      "bytes": 7284,
+      "sha256": "69b628b9b856487e8359fb821aa2ed1cbd9cca9a6c176ece2df96a3e765535c8"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/build_20261012.py",
+      "bytes": 18458,
+      "sha256": "704737c45f7f48bb07aaacccccfa33c806e03a7fecbd3d4b01112b835d351e11"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/build_channels.py",
+      "bytes": 19674,
+      "sha256": "8ea314fe2db426a875f4fd597aa4d93739a8d7fd47e796a02a32eb673327f85c"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/build_daily_trend.mjs",
+      "bytes": 29112,
+      "sha256": "b2036094da5e8f77bb4ca14be64c6db18423df3aec0e79ba432c4cc9da02e7ff"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/build_retry_table.mjs",
+      "bytes": 17578,
+      "sha256": "8612ac4c8caa1b1f335cc05b11bcb197dd235e3fcde5903dc0bd3bfee9576e96"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/complete_report.py",
+      "bytes": 12359,
+      "sha256": "afd40d497b90713e31352cf700bed8844a533eca4f2d742b9eeac4c505120397"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/finalize_20261011.py",
+      "bytes": 9590,
+      "sha256": "f6ce2d14f7afeac9137f13c265df15dfdef1d6c2754c7e1e6403bbb2b41c1d2e"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/finalize_daily_trend_xlsx.py",
+      "bytes": 5709,
+      "sha256": "3b09111d2837367b948a7a7bbd38636b09df118f297613f795962d3336b68e08"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/integrate_channels.py",
+      "bytes": 6527,
+      "sha256": "1ccc1e70a89e48e484b589d15be5074d280799e7cc6ff0ea402b522700250b3b"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/integrate_weekly.py",
+      "bytes": 9846,
+      "sha256": "96da8c9c80cff8fed7cd95dcdcd08bddcf54d6e7775832acf97052fd511b1550"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/plot_core_trend.py",
+      "bytes": 3560,
+      "sha256": "f879682ff9b3075579d7e1897bb88f5cc9ccbb0c4877c0ea3059a361e30beb8f"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/prepare_20261011.py",
+      "bytes": 21146,
+      "sha256": "451487be524842689d4270701ee42b2c18a8e69af84df29e5a6595eebd0275db"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/refresh_20261010.py",
+      "bytes": 19520,
+      "sha256": "b6c4186a6e52e66654008d2245dab9bcba6e9db095ea1e894f36ef19d1c654ed"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/render_20261012.py",
+      "bytes": 9329,
+      "sha256": "33fa853ee750b17ad09246dad6fc9f253a341ddba0f1908cbdf97697376b2a26"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/validate-channel-site.mjs",
+      "bytes": 21350,
+      "sha256": "ebe5ddccdf158619b72c641fa4a0e77019602b874fad0cf6dfe626cca88047f8"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/validate-daily-1010.mjs",
+      "bytes": 12337,
+      "sha256": "f30ccc53012f9832fff796e36ce53887c77d5393fd1dbd6a1f450d6271e61fee"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/validate-daily-1011.mjs",
+      "bytes": 11091,
+      "sha256": "16d1a16b8196f9bd4e194a405a8c9278fc723220afdff3d0cdda7b22a8101e8f"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/validate-daily-1012.mjs",
+      "bytes": 11424,
+      "sha256": "1e809f974559da92000965bd3d7cda4360f10013e8f69c018f35303b54ba6bad"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/validate-weekly-site.mjs",
+      "bytes": 13718,
+      "sha256": "e7c1f5112d16ebd35b2ec8cc66a688f87c3ddb3f60ca376fd921b073a53cd412"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/channel-component/INTEGRATION.md",
+      "bytes": 3937,
+      "sha256": "b70453b1d110a3cf1a6b6d43fd4df65667505bcb2fe5c57633a22846d31910f6"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/channel-component/channel-section.css",
+      "bytes": 5092,
+      "sha256": "7ae9ba0220ef0089b70840240be9804ba6bfff2780ce256c42cc13354735bf26"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/channel-component/channel-section.html",
+      "bytes": 97,
+      "sha256": "a6321c72c085eb8ac33acf2490075f3df6afb51ddf81a8690deeef5cc6e1a525"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/channel-component/channel-section.js",
+      "bytes": 14661,
+      "sha256": "cbf1ecfa44c191ddc2e8c4ff52997ab39ecab5c3d780cbbd538e38f12603adac"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/channel-component/validate-component.mjs",
+      "bytes": 10981,
+      "sha256": "4881ff59f15a7c5aa3bd12b42eaaa570069b73ddfa5256d4fa474d420f535e34"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/comparison-component/comparison.css",
+      "bytes": 2355,
+      "sha256": "4817d94c45deed4487480f21847333c9a1a131d25b9b3bc48daf2c747e565df5"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/comparison-component/comparison.js",
+      "bytes": 14724,
+      "sha256": "c985b9b299327231a07aed558bc5d9177604f981eeb13bd96dbe9af995103973"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/comparison-component/completion.css",
+      "bytes": 1770,
+      "sha256": "daafbe1dd2550fbca55ff4064e25fa1add3a07354aaf2bb996211cecc4a9b57a"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/work/comparison-component/gravity-render.js.txt",
+      "bytes": 8259,
+      "sha256": "2f00701a25630e956f021ce52b8c58b28d20870264c8bf10889ac1801b1f377f"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/age-profiles.csv",
+      "bytes": 36984,
+      "sha256": "68c3925e5721e69f52cecced61f5914db626e034ec532606235233dc0019456b"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/age-profiles.json",
+      "bytes": 35030,
+      "sha256": "a1d3c24733a4c78aac4acc0db3472f3d218838eddc3af2ec1d29ad5864b55fc9"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/business-two-weeks.csv",
+      "bytes": 37241,
+      "sha256": "9877234230bd9b0305102f156b1349dfc429a55b339e93bb90ed964c7012d350"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/channel-readings.json",
+      "bytes": 182107,
+      "sha256": "409e94acbd7d6a1e540d8e6709ee23fc8bd3836b021b07b82730fc4c2eb33fef"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/channel-two-weeks.csv",
+      "bytes": 9552,
+      "sha256": "cf3667f0b57a414ed848b4872c543496958daf90319f0bff1d9d0899266244dd"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/coverage.json",
+      "bytes": 11044,
+      "sha256": "2ccf1a0772f15f145c5813f38725da5212211d3088b7349bbc064d6c3b4b3933",
+      "source_sha256": "22dad007b5167b9c6f4be46182ba6d1bbf1f6f76d3028a1dc983d491ddb4c82f",
+      "transformation": "删除原云站点项目标识，保留未发布原因和数据覆盖记录"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/daily-readings.json",
+      "bytes": 72473,
+      "sha256": "e97f7fd07408dd11af9ffa4b43f2059d8a217cf3d0221fbb200c953488243057"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/gravity-content-daily.csv",
+      "bytes": 4850,
+      "sha256": "b5df32856d01af0faba37cac9babfeb523ffbcbdc4b4951ac266551315cc62e8"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/gravity-content-month.csv",
+      "bytes": 4124,
+      "sha256": "37921121be89fe2cf6924999a14ea7939d269e99d7118b453c1544773555629e"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/gravity-content-month.json",
+      "bytes": 31235,
+      "sha256": "3d5481f3832e4fc4f1a30a54d69214128eb3f8822f7f6a30f858016e5bacc0e7"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/index.html",
+      "bytes": 370839,
+      "sha256": "4c6c0a280c0201005349346fd3cfc58022d60ec0ffbe08d35cdf4605b09b45e4"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/selection-audit.csv",
+      "bytes": 10216,
+      "sha256": "d3e3353e382a8fd65ed14fdf9e935bae0b872d722978bc325f9592d9eefbb2a7"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/weekly-comparisons.json",
+      "bytes": 141280,
+      "sha256": "43d152f016b88cb1a4fece377e940cf21b4753f5ee3f9136604e1ad2bffcbbe2"
+    },
+    {
+      "module": "商品数据分析",
+      "path": "projects/product-analytics/examples/2026-10-12/draft-site/weekly-periods.csv",
+      "bytes": 4355,
+      "sha256": "a1f09ec39287eaaaa160d4ea83ccfeeb05f65f233507d59391e45ca6682a8d7f"
+    },
+    {
+      "module": "优化落地",
+      "path": "projects/action-plan/archive/build_action_site.py",
+      "bytes": 21946,
+      "sha256": "f03d1f195fb61c93dfdbf7c03927501d197f093942a96e6c105fc9be552188c3"
+    },
+    {
+      "module": "优化落地",
+      "path": "projects/action-plan/examples/2026-10-10/site/index.html",
+      "bytes": 41358,
+      "sha256": "bd440cea4004cef2a5c9562507ecbb23f22119d3fa74419fa7141b1bb15f9133"
+    },
+    {
+      "module": "优化落地",
+      "path": "projects/action-plan/examples/2026-10-10/site/plan.txt",
+      "bytes": 11554,
+      "sha256": "61a1363d2a8a8cc668e61bb98efc89450662199375d0d6e87c8086a84a9cf780"
+    }
+  ]
+}

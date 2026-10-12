@@ -1,0 +1,3 @@
+# Preserve archived CSV BOM/CRLF, images and all snapshot checksum bytes.
+* -text
+*.csv whitespace=cr-at-eol

@@ -1,0 +1,1432 @@
+{
+  "schemaVersion": 1,
+  "period": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "collectedDate": "2026-10-12",
+  "compiledAt": "2026-10-12T12:37:40.196275+08:00",
+  "ageGroups": [
+    "0–18岁",
+    "18–25岁",
+    "26–35岁",
+    "36–45岁",
+    "其他"
+  ],
+  "products": [
+    {
+      "code": "YX9354001",
+      "spuId": "52189490",
+      "name": "月光舞裙",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 21,
+          "totalSourceField": "支付用户数",
+          "status": "observed",
+          "sharesPct": [
+            9.52,
+            57.14,
+            23.81,
+            9.52,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 99.99
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 1732,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            8.08,
+            65.65,
+            20.03,
+            4.97,
+            1.27
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 145,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            6.21,
+            71.03,
+            17.93,
+            2.76,
+            2.07
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        }
+      }
+    },
+    {
+      "code": "YX9615001",
+      "spuId": "74458859",
+      "name": "好运相随双面四叶草",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 7,
+          "totalSourceField": "支付用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            57.14,
+            28.57,
+            14.29,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 1477,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            16.79,
+            66.76,
+            11.17,
+            4.06,
+            1.22
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 99,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            20.2,
+            61.62,
+            14.14,
+            3.03,
+            1.01
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        }
+      }
+    },
+    {
+      "code": "YX243800A",
+      "spuId": "83373005",
+      "name": "戴妃款珍珠项链",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 1,
+          "totalSourceField": "支付用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            100,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 36,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            47.22,
+            27.78,
+            19.44,
+            5.56
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 0,
+          "totalSourceField": "收藏用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        }
+      }
+    },
+    {
+      "code": "YX9339001",
+      "spuId": "47171559",
+      "name": "转运小蛮腰",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 1,
+          "totalSourceField": "支付用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            100
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 34,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            2.94,
+            67.65,
+            14.71,
+            0,
+            14.71
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.01
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 1,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            100,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX9640001",
+      "spuId": "92671152",
+      "name": "鸢尾星芒黄水晶",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 148,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            2.03,
+            43.92,
+            39.19,
+            9.46,
+            5.41
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.01
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 28,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            25,
+            57.14,
+            3.57,
+            14.29
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        }
+      }
+    },
+    {
+      "code": "YX9638001",
+      "spuId": "87371133",
+      "name": "薄荷蓝绿花朵",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 127,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            4.72,
+            25.98,
+            47.24,
+            12.6,
+            9.45
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 99.99
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 2,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            50,
+            50,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX9640002",
+      "spuId": "92804342",
+      "name": "别针鸢尾花水滴星芒",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 70,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            7.14,
+            38.57,
+            38.57,
+            7.14,
+            8.57
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 99.99
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 25,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            28,
+            52,
+            0,
+            20
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX9545001",
+      "spuId": "84165066",
+      "name": "双葫芦流苏",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 41,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            17.07,
+            58.54,
+            14.63,
+            4.88,
+            4.88
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 1,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            0,
+            100,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX243900A",
+      "spuId": "83372779",
+      "name": "碎银几两项链",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 40,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            5,
+            52.5,
+            20,
+            12.5,
+            10
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 1,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            100,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX9524001",
+      "spuId": "71261670",
+      "name": "H字母小蛮腰",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "核心指标底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 30,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            6.67,
+            46.67,
+            30,
+            13.33,
+            3.33
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 4,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            25,
+            75,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX9611001",
+      "spuId": "74612435",
+      "name": "冰花蓝眼泪",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 27,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            7.41,
+            48.15,
+            25.93,
+            18.52,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.01
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 1,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            100,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX9341001",
+      "spuId": "47054557",
+      "name": "福禄葫芦",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 17,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            5.88,
+            47.06,
+            23.53,
+            5.88,
+            17.65
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 2,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            50,
+            50,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX9501001",
+      "spuId": "84138350",
+      "name": "小猫蝴蝶结",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "核心指标底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 13,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            7.69,
+            69.23,
+            23.08,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 1,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            100,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YS407600A",
+      "spuId": "83378469",
+      "name": "碎银几两手链",
+      "category": "流行饰品/眼镜/服配-首饰-手链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 11,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            9.09,
+            36.36,
+            45.45,
+            0,
+            9.09
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 99.99
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 1,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            100
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YH9380001",
+      "spuId": "47140121",
+      "name": "璀璨星光耳钉",
+      "category": "流行饰品/眼镜/服配-首饰-耳钉",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "核心指标底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 6,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            33.33,
+            33.33,
+            33.33,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 99.99
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 1,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            0,
+            100,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX9340001",
+      "spuId": "47057533",
+      "name": "幸运四叶草珍珠",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "核心指标底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 6,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            50,
+            33.33,
+            0,
+            16.67
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100.0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 1,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            0,
+            100,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX9343001",
+      "spuId": "49924313",
+      "name": "一个熊抱",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "核心指标底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 4,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            50,
+            50,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 1,
+          "totalSourceField": "收藏用户数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            0,
+            100,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        }
+      }
+    },
+    {
+      "code": "YX9648001",
+      "spuId": "87365359",
+      "name": "镀金粉心四叶草",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 4,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            25,
+            25,
+            50,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 0,
+          "totalSourceField": "收藏用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        }
+      }
+    },
+    {
+      "code": "YX9499001",
+      "spuId": "84425317",
+      "name": "云层甜裙",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "核心指标底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 2,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            100,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 0,
+          "totalSourceField": "收藏用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        }
+      }
+    },
+    {
+      "code": "YX9507001",
+      "spuId": "95616011",
+      "name": "圆形荟萃项链",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 1,
+          "totalSourceField": "商详访问人数",
+          "status": "observed",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            100
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 100
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 0,
+          "totalSourceField": "收藏用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        }
+      }
+    },
+    {
+      "code": "YS9542001",
+      "spuId": "95626979",
+      "name": "八芒星星手链",
+      "category": "流行饰品/眼镜/服配-首饰-手链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 0,
+          "totalSourceField": "商详访问人数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 0,
+          "totalSourceField": "收藏用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        }
+      }
+    },
+    {
+      "code": "YX9498001",
+      "spuId": "95598789",
+      "name": "天使羽翼星芒",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 0,
+          "totalSourceField": "商详访问人数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 0,
+          "totalSourceField": "收藏用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        }
+      }
+    },
+    {
+      "code": "YX9500001",
+      "spuId": "95604406",
+      "name": "渐变圆形微笑弧线",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 0,
+          "totalSourceField": "商详访问人数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 0,
+          "totalSourceField": "收藏用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        }
+      }
+    },
+    {
+      "code": "YX9537001",
+      "spuId": "95626912",
+      "name": "星球星芒项链",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 0,
+          "totalSourceField": "商详访问人数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 0,
+          "totalSourceField": "收藏用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        }
+      }
+    },
+    {
+      "code": "YX9648002",
+      "spuId": "87381559",
+      "name": "白金色四叶草多坠",
+      "category": "流行饰品/眼镜/服配-首饰-项链",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "source": "成交分析底部年龄分布",
+      "cohorts": {
+        "paid": {
+          "label": "支付用户",
+          "totalUsers": 0,
+          "totalSourceField": "支付用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "browse": {
+          "label": "浏览用户",
+          "totalUsers": 0,
+          "totalSourceField": "商详访问人数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        },
+        "favorite": {
+          "label": "收藏用户",
+          "totalUsers": 0,
+          "totalSourceField": "收藏用户数",
+          "status": "no_users",
+          "sharesPct": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "ageCounts": null,
+          "rawShareSumPct": 0
+        }
+      }
+    }
+  ],
+  "coverage": {
+    "focusProducts": 25,
+    "observedProducts": 25,
+    "cohorts": 75,
+    "rawPercentValues": 375
+  },
+  "notes": [
+    "年龄占比来自各商品近7天界面图例；同期用户总数来自同区间官方商品导出，支付人数不等于支付订单数。",
+    "保留后台年龄分组及四舍五入后的占比，不改平合计、不反推分年龄人数。",
+    "其他的年龄定义未取得；0–18岁与18–25岁的边界沿用后台原文，不自行重新分组。",
+    "本期无用户时原图图例全为0，日报标注无用户并不绘制分布。缺失另行标记。",
+    "这是区间快照，未采集历史年龄结构，不代表每日趋势；年龄占比差异不是年龄转化率。",
+    "所有产品已逐款精确核对货号和类目，并用货号加SPU关联官方导出。"
+  ]
+}

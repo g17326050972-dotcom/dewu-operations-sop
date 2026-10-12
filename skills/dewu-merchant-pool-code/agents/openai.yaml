@@ -1,0 +1,4 @@
+interface:
+  display_name: "得物商家货品池编码"
+  short_description: "新品上架后导入商家货品池，按货号和礼盒规格填写商品编码并保存核验"
+  default_prompt: "使用 $dewu-merchant-pool-code，为我指定的已上架货号填写商家货品池商品编码，按礼盒规则保存并重新打开核验。"

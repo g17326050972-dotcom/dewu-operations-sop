@@ -1,0 +1,19 @@
+{
+  "period": [
+    "2026-10-05",
+    "2026-10-11"
+  ],
+  "source": "得物商家后台 > 引力投放 > 数据概览；近7天，全部品牌",
+  "snapshot": "2026-10-12",
+  "impressions": 104711,
+  "impressions_wow_percent": 17.16,
+  "reads": 13567,
+  "reads_wow_percent": 9.98,
+  "ctr_percent": 12.96,
+  "detail_visits": 3782,
+  "detail_visits_wow_percent": 16.15,
+  "detail_rate_percent": 27.88,
+  "merchant_overview_published_tasks": 0,
+  "merchant_overview_dynamics": 0,
+  "count_note": "商家旧引力概览显示发布任务和动态为0，与新版引力已核实任务不一致。任务数量使用新版引力任务列表和商家验收时间；本文件只用于周度流量总量，不将0解释为本周无内容。"
+}

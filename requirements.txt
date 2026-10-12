@@ -1,0 +1,4 @@
+# Core order reconciliation
+openpyxl>=3.1,<4
+# Historical analytics chart scripts
+matplotlib>=3.8,<4

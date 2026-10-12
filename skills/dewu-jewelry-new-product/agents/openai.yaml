@@ -1,0 +1,4 @@
+interface:
+  display_name: "得物饰品上架与批量草稿"
+  short_description: "从货盘和本地图片批量建草稿，逐款补齐类目、标题、礼盒、尺码及预出价"
+  default_prompt: "使用 $dewu-jewelry-new-product，按我指定的商品文件夹和最新货盘填写得物新品，遵循本次规则并保存草稿。"
