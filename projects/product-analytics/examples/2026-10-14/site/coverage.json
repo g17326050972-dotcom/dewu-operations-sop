@@ -1,0 +1,1085 @@
+{
+  "business_products": 28,
+  "business_dates": [
+    "2026-09-30",
+    "2026-10-01",
+    "2026-10-02",
+    "2026-10-03",
+    "2026-10-04",
+    "2026-10-05",
+    "2026-10-06",
+    "2026-10-07",
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-10",
+    "2026-10-11",
+    "2026-10-12",
+    "2026-10-13"
+  ],
+  "business_records": 333,
+  "business_missing_records": 59,
+  "channel_products": 23,
+  "channel_days": 322,
+  "channel_unavailable_products": [
+    "YH9380001",
+    "YX9343001",
+    "YX9499001",
+    "YX9501001",
+    "YX9524001"
+  ],
+  "channel_history_pending_products": [],
+  "gravity_contents": 5,
+  "gravity_content_days": 57,
+  "business_cutoff": "2026-10-13",
+  "content_cutoff": "2026-10-13",
+  "collected_date": "2026-10-14",
+  "age_profile": {
+    "focusProducts": 28,
+    "observedProducts": 28,
+    "cohorts": 84,
+    "rawPercentValues": 420,
+    "start": "2026-10-07",
+    "end": "2026-10-13"
+  },
+  "publication_status": "ready_with_verified_gaps",
+  "channel_previous_week_actual_products": 23,
+  "gaps": {
+    "business_day_baseline": "完整历史列表复核及可得图表已回补；未返回商品且经营区间显示—的历史指标留空。区间零总量直接覆盖零值，来源另注。",
+    "channel_day_baseline": "23款有来源入口、5款核心页未提供来源；所有23款两周区间已采，明确零值区间不再逐日检查。",
+    "channel_previous_week_children": "本次23款两周区间一级与可得二级已采；部分历史日二级渠道仍缺。",
+    "gravity": "10/14完整导出64条任务，按09/14—10/13发布时间筛选并逐条核验5条内容，补齐截至10/13共57条六项真实日值。",
+    "listing": "20款来自后台新品名单，真实首次上架日期未确认。",
+    "causes": "历史实际优惠、库存、活动与独立广告实际消耗未取得，不把渠道贡献变化当作已证明成因。"
+  },
+  "business_missing": [
+    [
+      "YX9507001",
+      "2026-09-30"
+    ],
+    [
+      "YX9507001",
+      "2026-10-01"
+    ],
+    [
+      "YX9507001",
+      "2026-10-02"
+    ],
+    [
+      "YX9507001",
+      "2026-10-03"
+    ],
+    [
+      "YX9507001",
+      "2026-10-04"
+    ],
+    [
+      "YX9507001",
+      "2026-10-05"
+    ],
+    [
+      "YX9507001",
+      "2026-10-06"
+    ],
+    [
+      "YX9507001",
+      "2026-10-07"
+    ],
+    [
+      "YX9507001",
+      "2026-10-08"
+    ],
+    [
+      "YS9542001",
+      "2026-09-30"
+    ],
+    [
+      "YS9542001",
+      "2026-10-01"
+    ],
+    [
+      "YS9542001",
+      "2026-10-02"
+    ],
+    [
+      "YS9542001",
+      "2026-10-03"
+    ],
+    [
+      "YS9542001",
+      "2026-10-04"
+    ],
+    [
+      "YS9542001",
+      "2026-10-05"
+    ],
+    [
+      "YS9542001",
+      "2026-10-06"
+    ],
+    [
+      "YS9542001",
+      "2026-10-07"
+    ],
+    [
+      "YS9542001",
+      "2026-10-08"
+    ],
+    [
+      "YX9537001",
+      "2026-09-30"
+    ],
+    [
+      "YX9537001",
+      "2026-10-01"
+    ],
+    [
+      "YX9537001",
+      "2026-10-02"
+    ],
+    [
+      "YX9537001",
+      "2026-10-03"
+    ],
+    [
+      "YX9537001",
+      "2026-10-04"
+    ],
+    [
+      "YX9537001",
+      "2026-10-05"
+    ],
+    [
+      "YX9537001",
+      "2026-10-06"
+    ],
+    [
+      "YX9537001",
+      "2026-10-07"
+    ],
+    [
+      "YX9537001",
+      "2026-10-08"
+    ],
+    [
+      "YX9498001",
+      "2026-09-30"
+    ],
+    [
+      "YX9498001",
+      "2026-10-01"
+    ],
+    [
+      "YX9498001",
+      "2026-10-02"
+    ],
+    [
+      "YX9498001",
+      "2026-10-03"
+    ],
+    [
+      "YX9498001",
+      "2026-10-04"
+    ],
+    [
+      "YX9498001",
+      "2026-10-05"
+    ],
+    [
+      "YX9498001",
+      "2026-10-06"
+    ],
+    [
+      "YX9498001",
+      "2026-10-07"
+    ],
+    [
+      "YX9498001",
+      "2026-10-08"
+    ],
+    [
+      "YX9500001",
+      "2026-09-30"
+    ],
+    [
+      "YX9500001",
+      "2026-10-01"
+    ],
+    [
+      "YX9500001",
+      "2026-10-02"
+    ],
+    [
+      "YX9500001",
+      "2026-10-03"
+    ],
+    [
+      "YX9500001",
+      "2026-10-04"
+    ],
+    [
+      "YX9500001",
+      "2026-10-05"
+    ],
+    [
+      "YX9500001",
+      "2026-10-06"
+    ],
+    [
+      "YX9500001",
+      "2026-10-07"
+    ],
+    [
+      "YX9500001",
+      "2026-10-08"
+    ],
+    [
+      "YX9531001",
+      "2026-09-30"
+    ],
+    [
+      "YX9531001",
+      "2026-10-01"
+    ],
+    [
+      "YX9531001",
+      "2026-10-02"
+    ],
+    [
+      "YX9531001",
+      "2026-10-03"
+    ],
+    [
+      "YX9531001",
+      "2026-10-04"
+    ],
+    [
+      "YX9531001",
+      "2026-10-05"
+    ],
+    [
+      "YX9531001",
+      "2026-10-06"
+    ],
+    [
+      "YX9521001",
+      "2026-09-30"
+    ],
+    [
+      "YX9521001",
+      "2026-10-01"
+    ],
+    [
+      "YX9521001",
+      "2026-10-02"
+    ],
+    [
+      "YX9521001",
+      "2026-10-03"
+    ],
+    [
+      "YX9521001",
+      "2026-10-04"
+    ],
+    [
+      "YX9521001",
+      "2026-10-05"
+    ],
+    [
+      "YX9521001",
+      "2026-10-06"
+    ]
+  ],
+  "new_watch_count": 20,
+  "channel_coverage": {
+    "category_product_count": 55,
+    "active_product_count": 28,
+    "excluded_product_count": 27,
+    "period_date_count": 14,
+    "expected_product_day_count": 392,
+    "observed_product_day_count": 322,
+    "observed_product_count": 23,
+    "target_codes": [
+      "YX9354001",
+      "YX9615001",
+      "YX9640001",
+      "YX9639002",
+      "YX9638001",
+      "YX9640002",
+      "YX9639001",
+      "YX9339001",
+      "YX243900A",
+      "YX243800A",
+      "YX9545001",
+      "YX9524001",
+      "YX9611001",
+      "YX9501001",
+      "YX9341001",
+      "YS407600A",
+      "YH9380001",
+      "YX9507001",
+      "YX9648001",
+      "YS9542001",
+      "YX9343001",
+      "YX9537001",
+      "YX9648002",
+      "YX9498001",
+      "YX9499001",
+      "YX9500001",
+      "YX9531001",
+      "YX9521001"
+    ],
+    "target_product_count": 28,
+    "head_observation_codes": [
+      "YX9354001",
+      "YX9615001",
+      "YX9640001",
+      "YX9639002",
+      "YX9638001",
+      "YX9640002",
+      "YX9639001",
+      "YX9339001",
+      "YX243900A",
+      "YX243800A"
+    ],
+    "source_status_counts": {
+      "observed": 23,
+      "not_exposed_in_backend": 5
+    },
+    "source_not_exposed_codes": [
+      "YH9380001",
+      "YX9343001",
+      "YX9499001",
+      "YX9501001",
+      "YX9524001"
+    ],
+    "source_not_yet_verified_codes": [],
+    "products_with_complete_period": [
+      "YX9354001",
+      "YX9615001",
+      "YX9640001",
+      "YX9639002",
+      "YX9638001",
+      "YX9640002",
+      "YX9639001",
+      "YX9339001",
+      "YX243900A",
+      "YX243800A",
+      "YX9545001",
+      "YX9611001",
+      "YX9341001",
+      "YS407600A",
+      "YX9507001",
+      "YX9648001",
+      "YS9542001",
+      "YX9537001",
+      "YX9648002",
+      "YX9498001",
+      "YX9500001",
+      "YX9531001",
+      "YX9521001"
+    ],
+    "complete_period_product_count": 23,
+    "observed_counts_by_date": {
+      "2026-09-30": 23,
+      "2026-10-01": 23,
+      "2026-10-02": 23,
+      "2026-10-03": 23,
+      "2026-10-04": 23,
+      "2026-10-05": 23,
+      "2026-10-06": 23,
+      "2026-10-07": 23,
+      "2026-10-08": 23,
+      "2026-10-09": 23,
+      "2026-10-10": 23,
+      "2026-10-11": 23,
+      "2026-10-12": 23,
+      "2026-10-13": 23
+    },
+    "missing_dates_by_code": {
+      "YX9354001": [],
+      "YX9615001": [],
+      "YX9640001": [],
+      "YX9639002": [],
+      "YX9638001": [],
+      "YX9640002": [],
+      "YX9639001": [],
+      "YX9339001": [],
+      "YX243900A": [],
+      "YX243800A": [],
+      "YX9545001": [],
+      "YX9524001": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "YX9611001": [],
+      "YX9501001": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "YX9341001": [],
+      "YS407600A": [],
+      "YH9380001": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "YX9507001": [],
+      "YX9648001": [],
+      "YS9542001": [],
+      "YX9343001": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "YX9537001": [],
+      "YX9648002": [],
+      "YX9498001": [],
+      "YX9499001": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "YX9500001": [],
+      "YX9531001": [],
+      "YX9521001": []
+    }
+  },
+  "pv_scope_discrepancies": [
+    {
+      "code": "YX9639002",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "channelPV": 706,
+      "businessPV": 589.0,
+      "difference": 117.0,
+      "status": "保留后台两处原值，统计口径或上架前归属差异待验证"
+    },
+    {
+      "code": "YX9639001",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "channelPV": 223,
+      "businessPV": 67.0,
+      "difference": 156.0,
+      "status": "保留后台两处原值，统计口径或上架前归属差异待验证"
+    }
+  ],
+  "zero_interval_policy": "用户10/14修正：区间总量为0直接标零，不逐天重复采集；—不填0。无访客转化率显示—，后台0另存。",
+  "zero_interval_evidence": [
+    {
+      "code": "YX9639002",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9639002",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9638001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9638001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9640002",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9640002",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9639001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9639001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9339001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9339001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX243900A",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX243900A",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX243800A",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX243800A",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX243800A",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9545001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9545001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9524001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9524001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9611001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9611001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9501001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9501001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9341001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9341001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YS407600A",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YS407600A",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YH9380001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YH9380001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9507001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9507001",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9507001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9648001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9648001",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9648001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YS9542001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YS9542001",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YS9542001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9343001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9343001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9537001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9537001",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9537001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9648002",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9648002",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9648002",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9498001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9498001",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9498001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9499001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9499001",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9499001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9500001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9500001",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9500001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9531001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9531001",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9531001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9521001",
+      "metric": "orders",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9521001",
+      "metric": "favorites",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9521001",
+      "metric": "uv",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    },
+    {
+      "code": "YX9521001",
+      "metric": "amount",
+      "start": "2026-10-07",
+      "end": "2026-10-13",
+      "total": 0,
+      "source": "10/07—10/13官方商品明细导出",
+      "method": "verified_zero_interval"
+    }
+  ]
+}

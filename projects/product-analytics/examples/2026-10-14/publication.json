@@ -1,0 +1,30 @@
+{
+  "data_cutoff": "2026-10-13",
+  "published_at": "2026-10-14T09:28:08.412613+00:00",
+  "status": "succeeded",
+  "version": 8,
+  "url": "https://dewu-product-daily-trends.lucky-fawn-8231.chatgpt.site",
+  "local_index_sha256": "b4ff10ed570c475b542b285aebd36d665fa3f5080a2052179ea488be9ca6d84a",
+  "anonymous_http_check": {
+    "url": "https://dewu-product-daily-trends.lucky-fawn-8231.chatgpt.site/",
+    "status": 200,
+    "final_url": "https://dewu-product-daily-trends.lucky-fawn-8231.chatgpt.site/",
+    "bytes": 471054,
+    "sha256": "17bec2ec8843ff4db2ea72fcfe57e8f890769436ebc3d5a1806db3ea75ed6a48"
+  },
+  "remote_index_byte_identical": false,
+  "limitations": [
+    "59个历史商品日存在指标缺口",
+    "5款后台无渠道明细入口",
+    "2款经营PV与来源PV不一致，原值保留",
+    "独立得物推近7天明细为后续新增要求，本历史页未补造"
+  ],
+  "remote_embedded_data_matches": true,
+  "embedded_data_ids": [
+    "trend-data",
+    "channel-data",
+    "comparison-data",
+    "age-data"
+  ],
+  "remote_html_note": "托管服务会注入脚本，HTML字节不同；嵌入经营、来源、对比和年龄数据与归档一致。"
+}

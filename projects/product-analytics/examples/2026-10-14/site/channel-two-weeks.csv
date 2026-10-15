@@ -1,0 +1,323 @@
+﻿code,date,total,competition,activity,paid,content,users,other,provenance,source,recommend,search,push,gravity,new_guarantee
+YX9354001,2026-09-30,735,115,1,446,123,39,11,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9354001,2026-10-01,723,102,1,494,53,64,9,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",12,90,1,493,
+YX9354001,2026-10-02,712,98,3,503,36,55,17,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",8,90,0,503,
+YX9354001,2026-10-03,425,101,1,224,41,43,15,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",6,95,0,224,
+YX9354001,2026-10-04,342,95,0,144,43,57,3,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",8,87,0,144,
+YX9354001,2026-10-05,371,95,0,177,46,37,16,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",6,89,0,177,
+YX9354001,2026-10-06,347,110,0,129,41,56,11,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",17,93,0,129,
+YX9354001,2026-10-07,372,119,1,144,39,58,11,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",3,116,0,144,
+YX9354001,2026-10-08,288,84,0,133,26,40,5,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",4,80,0,133,
+YX9354001,2026-10-09,317,108,1,129,20,50,9,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",6,102,0,129,
+YX9354001,2026-10-10,289,80,0,137,26,37,9,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",1,79,0,137,
+YX9354001,2026-10-11,355,126,0,133,34,58,4,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",6,120,0,133,
+YX9354001,2026-10-12,321,97,2,126,42,41,13,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,97,0,126,
+YX9354001,2026-10-13,299,86,0,117,50,36,10,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9354001_daily_渠道.txt""}",2,84,0,117,
+YX9615001,2026-09-30,73,16,0,50,0,5,2,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9615001,2026-10-01,111,14,0,88,6,3,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",2,12,0,88,
+YX9615001,2026-10-02,149,14,0,123,5,5,2,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",3,11,0,123,
+YX9615001,2026-10-03,198,10,0,180,4,3,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,10,0,180,
+YX9615001,2026-10-04,232,14,0,210,3,4,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",2,12,0,210,
+YX9615001,2026-10-05,205,12,0,181,4,6,2,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,12,0,181,
+YX9615001,2026-10-06,303,12,0,279,5,6,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",4,8,0,279,
+YX9615001,2026-10-07,313,11,0,296,1,3,2,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",2,9,0,296,
+YX9615001,2026-10-08,227,18,0,195,2,9,3,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",6,12,0,195,
+YX9615001,2026-10-09,165,10,0,154,0,0,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",5,5,0,154,
+YX9615001,2026-10-10,228,15,0,207,0,3,3,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",6,9,0,207,
+YX9615001,2026-10-11,244,16,0,211,6,8,3,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",2,14,0,211,
+YX9615001,2026-10-12,288,14,2,253,4,9,6,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",2,12,0,253,
+YX9615001,2026-10-13,324,10,0,302,6,5,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9615001_daily_渠道.txt""}",4,6,0,302,
+YX9640001,2026-09-30,25,11,0,0,13,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640001,2026-10-01,44,18,0,0,25,0,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640001,2026-10-02,68,34,1,0,27,2,4,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640001,2026-10-03,47,26,0,0,21,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640001,2026-10-04,44,20,2,0,21,0,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640001,2026-10-05,34,7,1,0,24,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640001,2026-10-06,4,2,1,0,1,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640001,2026-10-07,9,5,1,0,2,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,5,0,0,0
+YX9640001,2026-10-08,12,9,1,0,1,0,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",3,6,0,0,0
+YX9640001,2026-10-09,12,2,7,0,1,2,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",0,2,0,0,
+YX9640001,2026-10-10,41,4,2,0,31,2,2,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",4,0,0,0,0
+YX9640001,2026-10-11,57,15,1,0,37,2,2,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",1,0,0,0,14
+YX9640001,2026-10-12,44,8,9,0,26,1,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",1,1,0,0,6
+YX9640001,2026-10-13,51,19,9,0,17,3,3,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9640001_daily_渠道.txt""}",3,3,0,0,13
+YX9639002,2026-09-30,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639002_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639002,2026-10-01,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639002_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639002,2026-10-02,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639002_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639002,2026-10-03,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639002_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639002,2026-10-04,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639002_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639002,2026-10-05,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639002_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639002,2026-10-06,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639002_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639002,2026-10-07,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639002_20261007_渠道图表.txt""}",,,,,
+YX9639002,2026-10-08,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639002_20261008_渠道图表.txt""}",,,,,
+YX9639002,2026-10-09,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639002_20261009_渠道图表.txt""}",,,,,
+YX9639002,2026-10-10,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639002_20261010_渠道图表.txt""}",,,,,
+YX9639002,2026-10-11,20,0,0,0,20,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639002_20261011_渠道图表.txt""}",,,,,
+YX9639002,2026-10-12,97,0,0,0,97,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639002_20261012_渠道图表.txt""}",,,,,
+YX9639002,2026-10-13,589,3,0,0,563,3,20,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9639002_daily_渠道.txt""}",1,2,0,0,0
+YX9638001,2026-09-30,48,5,0,0,37,2,4,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9638001,2026-10-01,7,3,0,0,1,3,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9638001,2026-10-02,10,6,0,0,1,3,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9638001,2026-10-03,6,3,0,0,1,1,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9638001,2026-10-04,4,1,1,0,0,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9638001,2026-10-05,7,7,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9638001,2026-10-06,7,3,1,0,0,3,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9638001,2026-10-07,4,2,0,0,0,1,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,2,0,0,0
+YX9638001,2026-10-08,4,2,0,0,1,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,2,0,0,0
+YX9638001,2026-10-09,20,1,0,13,1,2,3,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",0,1,0,13,
+YX9638001,2026-10-10,39,1,0,32,1,5,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,1,0,32,0
+YX9638001,2026-10-11,57,3,1,46,4,2,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",1,2,0,46,0
+YX9638001,2026-10-12,58,3,0,41,14,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",1,2,0,41,0
+YX9638001,2026-10-13,63,1,1,40,20,1,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9638001_daily_渠道.txt""}",0,1,0,40,0
+YX9640002,2026-09-30,3,1,0,0,1,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640002,2026-10-01,33,6,0,0,25,0,2,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640002,2026-10-02,48,15,0,0,32,0,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640002,2026-10-03,45,23,0,0,21,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640002,2026-10-04,48,18,1,0,25,4,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640002,2026-10-05,26,7,0,0,18,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640002,2026-10-06,8,4,1,0,0,2,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9640002,2026-10-07,5,3,0,0,1,0,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,3,0,0,0
+YX9640002,2026-10-08,1,1,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,1,0,0,0
+YX9640002,2026-10-09,4,1,3,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",0,1,0,0,
+YX9640002,2026-10-10,33,0,1,0,32,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,0
+YX9640002,2026-10-11,10,2,3,0,1,3,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",2,0,0,0,0
+YX9640002,2026-10-12,13,3,0,0,9,1,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",2,1,0,0,0
+YX9640002,2026-10-13,10,5,1,0,1,1,2,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9640002_daily_渠道.txt""}",0,5,0,0,0
+YX9639001,2026-09-30,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639001,2026-10-01,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639001,2026-10-02,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639001,2026-10-03,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639001,2026-10-04,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639001,2026-10-05,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639001,2026-10-06,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9639001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9639001,2026-10-07,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639001_20261007_渠道图表.txt""}",,,,,
+YX9639001,2026-10-08,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639001_20261008_渠道图表.txt""}",,,,,
+YX9639001,2026-10-09,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639001_20261009_渠道图表.txt""}",,,,,
+YX9639001,2026-10-10,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639001_20261010_渠道图表.txt""}",,,,,
+YX9639001,2026-10-11,15,0,0,0,15,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639001_20261011_渠道图表.txt""}",,,,,
+YX9639001,2026-10-12,141,0,0,0,137,1,3,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9639001_20261012_渠道图表.txt""}",,,,,
+YX9639001,2026-10-13,67,2,0,0,64,0,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9639001_daily_渠道.txt""}",1,1,0,0,0
+YX9339001,2026-09-30,6,0,0,6,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9339001,2026-10-01,27,1,0,22,1,3,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,1,0,22,
+YX9339001,2026-10-02,6,0,0,5,0,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9339001,2026-10-03,4,0,0,3,0,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9339001,2026-10-04,24,0,0,22,1,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9339001,2026-10-05,21,0,0,19,1,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9339001,2026-10-06,7,0,0,4,0,2,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9339001,2026-10-07,2,0,0,1,0,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,0,0,1,
+YX9339001,2026-10-08,7,0,0,3,0,3,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,0,0,3,
+YX9339001,2026-10-09,4,0,0,2,0,2,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",0,0,0,2,
+YX9339001,2026-10-10,5,0,0,2,0,2,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,2,
+YX9339001,2026-10-11,9,0,0,5,0,3,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,5,
+YX9339001,2026-10-12,6,0,0,2,1,2,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,0,0,2,
+YX9339001,2026-10-13,10,0,0,4,0,6,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9339001_daily_渠道.txt""}",0,0,0,4,
+YX243900A,2026-09-30,12,7,2,0,0,3,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243900A,2026-10-01,9,4,3,0,0,1,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243900A,2026-10-02,11,4,4,0,0,3,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243900A,2026-10-03,4,2,0,0,0,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243900A,2026-10-04,7,3,2,0,0,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243900A,2026-10-05,6,1,5,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243900A,2026-10-06,11,2,3,0,0,6,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243900A,2026-10-07,6,2,2,0,0,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,2,0,0,0
+YX243900A,2026-10-08,3,2,1,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",1,1,0,0,0
+YX243900A,2026-10-09,7,2,3,0,0,2,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",0,2,0,0,
+YX243900A,2026-10-10,7,3,0,0,2,1,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,3,0,0,0
+YX243900A,2026-10-11,3,2,1,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,2,0,0,0
+YX243900A,2026-10-12,4,1,0,0,1,1,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,1,0,0,0
+YX243900A,2026-10-13,8,3,1,0,0,2,2,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX243900A_daily_渠道.txt""}",1,2,0,0,0
+YX243800A,2026-09-30,4,0,0,0,1,3,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243800A,2026-10-01,2,2,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243800A,2026-10-02,5,3,1,0,0,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243800A,2026-10-03,6,4,0,0,0,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243800A,2026-10-04,7,2,0,0,2,2,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243800A,2026-10-05,7,4,2,0,0,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243800A,2026-10-06,8,5,2,0,1,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX243800A,2026-10-07,10,4,0,0,0,6,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,4,0,0,0
+YX243800A,2026-10-08,2,2,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,2,0,0,0
+YX243800A,2026-10-09,6,4,1,0,0,1,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",1,3,0,0,
+YX243800A,2026-10-10,3,0,1,0,0,2,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,0
+YX243800A,2026-10-11,6,5,1,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,5,0,0,0
+YX243800A,2026-10-12,8,4,0,0,4,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",1,3,0,0,0
+YX243800A,2026-10-13,5,1,0,0,0,3,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX243800A_daily_渠道.txt""}",0,1,0,0,0
+YX9545001,2026-09-30,22,4,0,0,11,2,5,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9545001,2026-10-01,10,0,0,0,6,2,2,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9545001,2026-10-02,8,0,0,0,8,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9545001,2026-10-03,9,1,0,0,8,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9545001,2026-10-04,7,0,0,0,6,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9545001,2026-10-05,4,0,0,0,4,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9545001,2026-10-06,12,0,0,0,10,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9545001,2026-10-07,7,0,0,0,6,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,0,0,0,0
+YX9545001,2026-10-08,4,0,0,0,4,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,0,0,0,0
+YX9545001,2026-10-09,5,0,0,0,5,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",0,0,0,0,
+YX9545001,2026-10-10,9,3,0,0,4,1,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,3,0,0,0
+YX9545001,2026-10-11,3,0,0,0,3,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,0,0
+YX9545001,2026-10-12,2,2,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,2,0,0,0
+YX9545001,2026-10-13,3,1,0,0,1,0,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9545001_daily_渠道.txt""}",1,0,0,0,0
+YX9611001,2026-09-30,3,0,0,0,3,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9611001,2026-10-01,4,1,0,0,2,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9611001,2026-10-02,5,1,0,0,1,3,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9611001,2026-10-03,2,0,0,0,0,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9611001,2026-10-04,10,2,0,0,4,4,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9611001,2026-10-05,3,0,0,0,2,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9611001,2026-10-06,3,0,0,0,2,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9611001,2026-10-07,5,0,0,0,4,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9611001,2026-10-08,9,2,0,0,4,3,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9611001,2026-10-09,6,1,0,0,3,2,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",0,1,0,0,
+YX9611001,2026-10-10,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,
+YX9611001,2026-10-11,3,0,0,0,3,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,0,
+YX9611001,2026-10-12,2,1,0,0,0,1,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,1,0,0,
+YX9611001,2026-10-13,3,0,0,0,3,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9611001_daily_渠道.txt""}",0,0,0,0,
+YX9341001,2026-09-30,3,1,0,0,0,2,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",1,0,0,0,
+YX9341001,2026-10-01,10,7,0,0,0,2,1,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,7,0,0,
+YX9341001,2026-10-02,2,0,0,0,0,2,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,0,0,0,
+YX9341001,2026-10-03,1,1,0,0,0,0,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,1,0,0,
+YX9341001,2026-10-04,1,1,0,0,0,0,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,1,0,0,
+YX9341001,2026-10-05,3,1,0,0,1,1,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",1,0,0,0,
+YX9341001,2026-10-06,2,0,0,0,0,2,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,0,0,0,
+YX9341001,2026-10-07,3,1,0,0,2,0,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,1,0,0,
+YX9341001,2026-10-08,1,1,0,0,0,0,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,1,0,0,
+YX9341001,2026-10-09,4,2,0,0,0,2,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,2,0,0,
+YX9341001,2026-10-10,5,4,0,0,0,1,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,4,0,0,
+YX9341001,2026-10-11,3,0,0,0,0,3,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,0,
+YX9341001,2026-10-12,1,0,0,0,0,1,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,0,0,0,
+YX9341001,2026-10-13,1,0,0,0,0,1,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9341001_daily_渠道.txt""}",0,0,0,0,
+YS407600A,2026-09-30,1,0,1,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YS407600A,2026-10-01,2,1,0,0,0,0,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YS407600A,2026-10-02,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YS407600A,2026-10-03,1,0,0,0,0,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YS407600A,2026-10-04,2,0,0,0,0,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YS407600A,2026-10-05,1,1,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YS407600A,2026-10-06,3,0,1,0,0,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YS407600A,2026-10-07,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,0,0,0,0
+YS407600A,2026-10-08,4,1,0,0,1,2,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,1,0,0,0
+YS407600A,2026-10-09,1,0,0,0,0,0,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",0,0,0,0,
+YS407600A,2026-10-10,2,0,0,0,0,2,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,0
+YS407600A,2026-10-11,2,1,0,0,0,1,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,1,0,0,0
+YS407600A,2026-10-12,6,2,1,0,1,1,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,2,0,0,0
+YS407600A,2026-10-13,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YS407600A_daily_渠道.txt""}",0,0,0,0,0
+YX9507001,2026-09-30,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9507001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9507001,2026-10-01,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9507001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9507001,2026-10-02,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9507001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9507001,2026-10-03,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9507001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9507001,2026-10-04,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9507001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9507001,2026-10-05,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9507001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9507001,2026-10-06,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9507001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9507001,2026-10-07,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9507001_gap_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-08""}",0,0,0,0,0
+YX9507001,2026-10-08,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9507001_gap_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-08""}",0,0,0,0,0
+YX9507001,2026-10-09,0,0,0,0,0,0,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,0,0,0,
+YX9507001,2026-10-10,2,0,0,0,0,0,2,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,0
+YX9507001,2026-10-11,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,0,0
+YX9507001,2026-10-12,1,0,0,0,0,0,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,0,0,0,0
+YX9507001,2026-10-13,1,0,0,0,0,0,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9507001_daily_渠道.txt""}",0,0,0,0,0
+YX9648001,2026-09-30,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648001,2026-10-01,1,0,0,0,0,0,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648001,2026-10-02,1,0,0,0,0,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648001,2026-10-03,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648001,2026-10-04,1,0,0,0,0,0,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648001,2026-10-05,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648001,2026-10-06,1,0,0,0,0,0,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648001,2026-10-07,1,1,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,1,0,0,0
+YX9648001,2026-10-08,1,0,0,0,0,1,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,0,0,0,0
+YX9648001,2026-10-09,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",0,0,0,0,
+YX9648001,2026-10-10,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,0
+YX9648001,2026-10-11,1,0,0,0,0,1,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,0,0
+YX9648001,2026-10-12,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,0,0,0,0
+YX9648001,2026-10-13,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9648001_daily_渠道.txt""}",0,0,0,0,0
+YS9542001,2026-09-30,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YS9542001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YS9542001,2026-10-01,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YS9542001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YS9542001,2026-10-02,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YS9542001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YS9542001,2026-10-03,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YS9542001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YS9542001,2026-10-04,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YS9542001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YS9542001,2026-10-05,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YS9542001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YS9542001,2026-10-06,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YS9542001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YS9542001,2026-10-07,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YS9542001_gap_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-08""}",0,0,0,0,0
+YS9542001,2026-10-08,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YS9542001_gap_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-08""}",0,0,0,0,0
+YS9542001,2026-10-09,0,0,0,0,0,0,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,0,0,0,
+YS9542001,2026-10-10,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,0
+YS9542001,2026-10-11,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,0,0
+YS9542001,2026-10-12,1,0,0,0,0,0,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,0,0,0,0
+YS9542001,2026-10-13,1,0,0,0,0,0,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YS9542001_daily_渠道.txt""}",0,0,0,0,0
+YX9537001,2026-09-30,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9537001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9537001,2026-10-01,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9537001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9537001,2026-10-02,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9537001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9537001,2026-10-03,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9537001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9537001,2026-10-04,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9537001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9537001,2026-10-05,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9537001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9537001,2026-10-06,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9537001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9537001,2026-10-07,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9537001_gap_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-08""}",0,0,0,0,0
+YX9537001,2026-10-08,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9537001_gap_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-08""}",0,0,0,0,0
+YX9537001,2026-10-09,0,0,0,0,0,0,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,0,0,0,
+YX9537001,2026-10-10,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,0
+YX9537001,2026-10-11,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,0,0
+YX9537001,2026-10-12,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,0,0,0,0
+YX9537001,2026-10-13,3,1,0,0,0,0,2,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9537001_daily_渠道.txt""}",0,1,0,0,0
+YX9648002,2026-09-30,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648002,2026-10-01,1,0,0,0,0,0,1,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648002,2026-10-02,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648002,2026-10-03,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648002,2026-10-04,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648002,2026-10-05,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648002,2026-10-06,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",,,,,
+YX9648002,2026-10-07,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,0,0,0,0
+YX9648002,2026-10-08,0,0,0,0,0,0,0,observed_ui_chart_tooltip,"{""kind"": ""observed_ui_chart_tooltip"", ""description"": ""得物商家后台商品分析-单品分析-流量分析，2026-09-25至2026-10-08，逐日图表提示，全部及六个一级渠道均选中并核对合计"", ""collected_date"": ""2026-10-10""}",0,0,0,0,0
+YX9648002,2026-10-09,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-10""}",0,0,0,0,
+YX9648002,2026-10-10,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,0
+YX9648002,2026-10-11,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,0,0
+YX9648002,2026-10-12,1,1,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,1,0,0,0
+YX9648002,2026-10-13,1,0,0,0,1,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9648002_daily_渠道.txt""}",0,0,0,0,0
+YX9498001,2026-09-30,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9498001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9498001,2026-10-01,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9498001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9498001,2026-10-02,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9498001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9498001,2026-10-03,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9498001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9498001,2026-10-04,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9498001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9498001,2026-10-05,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9498001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9498001,2026-10-06,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9498001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9498001,2026-10-07,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9498001_gap_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-08""}",0,0,0,0,0
+YX9498001,2026-10-08,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9498001_gap_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-08""}",0,0,0,0,0
+YX9498001,2026-10-09,0,0,0,0,0,0,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,0,0,0,
+YX9498001,2026-10-10,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,0
+YX9498001,2026-10-11,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,0,0
+YX9498001,2026-10-12,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,0,0,0,0
+YX9498001,2026-10-13,1,0,0,0,0,0,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9498001_daily_渠道.txt""}",0,0,0,0,0
+YX9500001,2026-09-30,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9500001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9500001,2026-10-01,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9500001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9500001,2026-10-02,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9500001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9500001,2026-10-03,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9500001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9500001,2026-10-04,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9500001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9500001,2026-10-05,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9500001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9500001,2026-10-06,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9500001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9500001,2026-10-07,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9500001_gap_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-08""}",0,0,0,0,0
+YX9500001,2026-10-08,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9500001_gap_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-08""}",0,0,0,0,0
+YX9500001,2026-10-09,0,0,0,0,0,0,0,observed_ui_daily_filter,"{""kind"": ""observed_ui_daily_filter"", ""collected_date"": ""2026-10-11""}",0,0,0,0,
+YX9500001,2026-10-10,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-11""}",0,0,0,0,0
+YX9500001,2026-10-11,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-12""}",0,0,0,0,0
+YX9500001,2026-10-12,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""collected_date"": ""2026-10-13""}",0,0,0,0,0
+YX9500001,2026-10-13,1,0,0,0,0,0,1,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9500001_daily_渠道.txt""}",0,0,0,0,0
+YX9531001,2026-09-30,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9531001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9531001,2026-10-01,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9531001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9531001,2026-10-02,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9531001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9531001,2026-10-03,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9531001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9531001,2026-10-04,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9531001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9531001,2026-10-05,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9531001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9531001,2026-10-06,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9531001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9531001,2026-10-07,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9531001_20261007_渠道图表.txt""}",,,,,
+YX9531001,2026-10-08,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9531001_20261008_渠道图表.txt""}",,,,,
+YX9531001,2026-10-09,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9531001_20261009_渠道图表.txt""}",,,,,
+YX9531001,2026-10-10,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9531001_20261010_渠道图表.txt""}",,,,,
+YX9531001,2026-10-11,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9531001_20261011_渠道图表.txt""}",,,,,
+YX9531001,2026-10-12,0,0,0,0,0,0,0,observed_ui_chart,"{""kind"": ""observed_ui_chart"", ""file"": ""YX9531001_20261012_渠道图表.txt""}",,,,,
+YX9531001,2026-10-13,1,1,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9531001_daily_渠道.txt""}",0,1,0,0,0
+YX9521001,2026-09-30,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9521001,2026-10-01,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9521001,2026-10-02,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9521001,2026-10-03,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9521001,2026-10-04,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9521001,2026-10-05,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9521001,2026-10-06,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_prior_渠道.txt"", ""start"": ""2026-09-30"", ""end"": ""2026-10-06""}",0,0,0,0,0
+YX9521001,2026-10-07,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_period_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-13""}",0,0,0,0,0
+YX9521001,2026-10-08,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_period_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-13""}",0,0,0,0,0
+YX9521001,2026-10-09,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_period_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-13""}",0,0,0,0,0
+YX9521001,2026-10-10,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_period_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-13""}",0,0,0,0,0
+YX9521001,2026-10-11,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_period_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-13""}",0,0,0,0,0
+YX9521001,2026-10-12,0,0,0,0,0,0,0,verified_zero_interval,"{""kind"": ""verified_zero_interval"", ""file"": ""YX9521001_period_渠道.txt"", ""start"": ""2026-10-07"", ""end"": ""2026-10-13""}",0,0,0,0,0
+YX9521001,2026-10-13,0,0,0,0,0,0,0,observed_ui_channel_table,"{""kind"": ""observed_ui_channel_table"", ""file"": ""YX9521001_daily_渠道.txt""}",0,0,0,0,0

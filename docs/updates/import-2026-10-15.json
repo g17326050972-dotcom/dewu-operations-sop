@@ -1,0 +1,227 @@
+{
+  "updated_at": "2026-10-15",
+  "policy": "仅同步工作代码及已发布汇总页面；没有原始订单、客户资料、登录凭据或部署身份文件",
+  "files": [
+    {
+      "module": "商品数据分析",
+      "source": "work/checkpoint_20261014.py",
+      "path": "projects/product-analytics/work/checkpoint_20261014.py",
+      "bytes": 8042,
+      "sha256": "e0cc15eb51223413469c177f6f5d76c6c015b722fa64211ff97ad2c819228bc0",
+      "source_sha256": "b52e0d17ff50c388216823715866689f39d8802ed7a333d4c1a137ba73a60abd",
+      "transformation": "移除原云项目标识及一次性浏览器环境文字，保留历史计算逻辑"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/consolidate_20261014.py",
+      "path": "projects/product-analytics/work/consolidate_20261014.py",
+      "bytes": 4680,
+      "sha256": "1665e2178855a3f861bf767dd8646e4352cb378c8ac4b2eceba0cdd209719bf6"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/finish_gravity_20261013.py",
+      "path": "projects/product-analytics/work/finish_gravity_20261013.py",
+      "bytes": 6649,
+      "sha256": "6898b82f5f06b8023a7f8430dd099789ca4a34d8cf44d35d7c66b515524923e2"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/finish_gravity_20261014.py",
+      "path": "projects/product-analytics/work/finish_gravity_20261014.py",
+      "bytes": 5586,
+      "sha256": "078525c8fcc8c6876162f41ecb18a7f9c76f4ffa17bd41938666b85ba3c750c2"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/parse_20261014.py",
+      "path": "projects/product-analytics/work/parse_20261014.py",
+      "bytes": 806,
+      "sha256": "1130c682d62a45ce546bfac30cc456e8ddf8b3e9933d43613cee30e5d355cba2"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/parse_gravity_20261014.py",
+      "path": "projects/product-analytics/work/parse_gravity_20261014.py",
+      "bytes": 1317,
+      "sha256": "7c9b88819ee4a572c792b285a7efb7de352eb25330ba85681a280b787595e2d3"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/prepare_20261013.py",
+      "path": "projects/product-analytics/work/prepare_20261013.py",
+      "bytes": 12961,
+      "sha256": "34909ed3089a0f7271f3603204f0a8e66885b7652c44b58aa5e9ff760a9d6b68"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/prepare_20261014.py",
+      "path": "projects/product-analytics/work/prepare_20261014.py",
+      "bytes": 14209,
+      "sha256": "e6e1aa46c0f0a471d4d3517f54183dd9edf4e478cc9b1608f4b052bf23d0e8a5"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/render_20261013.py",
+      "path": "projects/product-analytics/work/render_20261013.py",
+      "bytes": 10196,
+      "sha256": "e663bc02cdc81ec3f4b8474b0d782d4cf4e849864fee2af5d3e7c89c6591509c"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/render_20261014.py",
+      "path": "projects/product-analytics/work/render_20261014.py",
+      "bytes": 10104,
+      "sha256": "2d7543c25052ad34fef0f53a3b29b41644f31b35ddc97139d9c774af92e0bb6c"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/validate-daily-1013.mjs",
+      "path": "projects/product-analytics/work/validate-daily-1013.mjs",
+      "bytes": 11450,
+      "sha256": "ed0e886d0c4f053acfc308a49fefece889a9c4f11a642fa29394574bcdc80084"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/validate-daily-1014.mjs",
+      "path": "projects/product-analytics/work/validate-daily-1014.mjs",
+      "bytes": 10588,
+      "sha256": "b6856b1a0d6e60a245595c0983fa148808faa839a5ce2c10ccada6bdbcc14481"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/age-profiles.csv",
+      "path": "projects/product-analytics/examples/2026-10-14/site/age-profiles.csv",
+      "bytes": 48782,
+      "sha256": "cdf22fb91d20eedc784c4b8bd38e998b9a78855c1e8a4603c1ff5a0686ce5577"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/age-profiles.json",
+      "path": "projects/product-analytics/examples/2026-10-14/site/age-profiles.json",
+      "bytes": 39624,
+      "sha256": "e3624e29261a1f12af168c30f4c91a30893c27064554ec86c7b1bba5b604f2df"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/business-two-weeks.csv",
+      "path": "projects/product-analytics/examples/2026-10-14/site/business-two-weeks.csv",
+      "bytes": 66325,
+      "sha256": "7de93e0b63706a5b205419505c4aae950f96df1c62d12d68c4cbfeb773132c57"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/channel-readings.json",
+      "path": "projects/product-analytics/examples/2026-10-14/site/channel-readings.json",
+      "bytes": 261146,
+      "sha256": "2a90522c5e1a3ab1319b0ddba2842ffa0573bbd936a37d69bc5f271675a59783"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/channel-two-weeks.csv",
+      "path": "projects/product-analytics/examples/2026-10-14/site/channel-two-weeks.csv",
+      "bytes": 72502,
+      "sha256": "2c2c8b38014735c785d4931a937381eb4d996f547baad0157848ded28a0c729e"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/channel-weekly-periods.csv",
+      "path": "projects/product-analytics/examples/2026-10-14/site/channel-weekly-periods.csv",
+      "bytes": 4154,
+      "sha256": "3a4455bdae8666c9420d0982298535e7c0570d42f1f58d6a7e0e2a23fe656d18"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/coverage.json",
+      "path": "projects/product-analytics/examples/2026-10-14/site/coverage.json",
+      "bytes": 25021,
+      "sha256": "86d6dc63effe307e3f2f1f52a767d72843a8702b4e4ff9556f3d59f6b494732e"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/daily-readings.json",
+      "path": "projects/product-analytics/examples/2026-10-14/site/daily-readings.json",
+      "bytes": 99250,
+      "sha256": "748328356f3b6e21a8f2b225a319e810d86522b01fdf03b79b018db7e34be4a9"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/gravity-content-daily.csv",
+      "path": "projects/product-analytics/examples/2026-10-14/site/gravity-content-daily.csv",
+      "bytes": 6540,
+      "sha256": "0bbf5a5726ec1e3dec7fc1ce3006f508d7e08015af8ed93232927458464f04b6"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/gravity-content-month.csv",
+      "path": "projects/product-analytics/examples/2026-10-14/site/gravity-content-month.csv",
+      "bytes": 4151,
+      "sha256": "776e0bb58f4ad2f3c04e494209a8d509a9a3ffe1c9994095a462ef0f6edb9d29"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/gravity-content-month.json",
+      "path": "projects/product-analytics/examples/2026-10-14/site/gravity-content-month.json",
+      "bytes": 37236,
+      "sha256": "36bbf434eeed5d21edd64fafde004d50c32586a9d0ea968d486894ef793e7298"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/index.html",
+      "path": "projects/product-analytics/examples/2026-10-14/site/index.html",
+      "bytes": 470116,
+      "sha256": "b4ff10ed570c475b542b285aebd36d665fa3f5080a2052179ea488be9ca6d84a"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/pv-scope-discrepancies.csv",
+      "path": "projects/product-analytics/examples/2026-10-14/site/pv-scope-discrepancies.csv",
+      "bytes": 301,
+      "sha256": "882e3eb4143cfada07ff2593748d95b22e3525180784ca30a06367eb7d64ce65"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/selection-audit.csv",
+      "path": "projects/product-analytics/examples/2026-10-14/site/selection-audit.csv",
+      "bytes": 11054,
+      "sha256": "8a26f0815a76e693cceaf4306c51f1e812a7a9f806f6d12f5416539f80bcb6f6"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/weekly-comparisons.json",
+      "path": "projects/product-analytics/examples/2026-10-14/site/weekly-comparisons.json",
+      "bytes": 172670,
+      "sha256": "09772db51a6b6b19508cb4585e4eaa408cb83463048738eda738cc82b2300afb"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/weekly-periods.csv",
+      "path": "projects/product-analytics/examples/2026-10-14/site/weekly-periods.csv",
+      "bytes": 4956,
+      "sha256": "4a9bcdd1dfdd7b1715aa1e481a0067bed20238275c54868b59d08b33c9fe4ea1"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/dewu-trend-site/dist/zero-interval-evidence.csv",
+      "path": "projects/product-analytics/examples/2026-10-14/site/zero-interval-evidence.csv",
+      "bytes": 6461,
+      "sha256": "0bc235e1857a0ce848c51e63d001708fc07a2d4e1adebebf01c85f9b194618cb"
+    },
+    {
+      "module": "出价/自建折扣",
+      "source": "fill-template.mjs",
+      "path": "projects/self-discount/archive/20261014/fill-template.mjs",
+      "bytes": 1714,
+      "sha256": "a88fa7e4549bb26fcd9cdb38c73b2d3cfabecb69957007b736a2e3c57f04f668"
+    },
+    {
+      "module": "商品数据分析",
+      "source": "work/build_20261012.py",
+      "path": "projects/product-analytics/work/build_20261012.py",
+      "source_sha256": "704737c45f7f48bb07aaacccccfa33c806e03a7fecbd3d4b01112b835d351e11",
+      "sha256": "b4d5b2699be8ed7cb73efe447bf9cd1d93d98fd27302547e830d8593ab206f5e",
+      "bytes": 18444,
+      "transformation": "移除原云项目标识及一次性浏览器环境文字，保留历史计算逻辑"
+    }
+  ]
+}

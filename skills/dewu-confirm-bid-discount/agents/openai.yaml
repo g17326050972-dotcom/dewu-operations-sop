@@ -1,4 +1,4 @@
 interface:
-  display_name: "得物预出价确认与自建折扣"
-  short_description: "确认新品已有预出价，按货盘配置银饰自建折扣，并按当次授权修正到手价尾数"
-  default_prompt: "使用 $dewu-confirm-bid-discount，确认指定新品已有预出价、按货盘配置自建折扣，并检查和按本次授权修正非9尾到手价。"
+  display_name: "得物出价与自建折扣"
+  short_description: "按授权处理出价，多款优先用官方表格报名银饰自建折扣，并核验到手价"
+  default_prompt: "使用 $dewu-confirm-bid-discount，按最新货盘和本次授权处理指定商品出价，多款优先表格报名自建折扣，再回读到手价和审核状态。"
