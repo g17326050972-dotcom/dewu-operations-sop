@@ -6,7 +6,9 @@
 
 分享入口：[仓库首页](https://github.com/g17326050972-dotcom/dewu-operations-sop) · [下载最新 ZIP](https://github.com/g17326050972-dotcom/dewu-operations-sop/archive/refs/heads/main.zip) · [本次更新说明](docs/updates/2026-10-17.md)。这两个分享地址沿用不变，更新后可重新下载最新内容。
 
-可浏览的报告：[商品日报](https://dewu-product-daily-trends.lucky-fawn-8231.chatgpt.site/) · [历史周报 · 可切换周次](https://dara-weekly-20260831.lucky-fawn-8231.chatgpt.site/)。仓库内也保留对应静态文件；报告截止日以页面标注为准。
+周报已独立维护：[周报专用仓库](https://github.com/g17326050972-dotcom/dewu-weekly-report) · [周报网站](https://dara-weekly-20260831.lucky-fawn-8231.chatgpt.site/)。本仓库的周报副本仅作历史归档。
+
+日报入口：[商品日报](https://dewu-product-daily-trends.lucky-fawn-8231.chatgpt.site/)。日报与周报分别维护、分别分享。
 
 ## 项目入口
 

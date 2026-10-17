@@ -1,5 +1,7 @@
 # 得物周报与利润核对
 
+> 周报已迁至[独立仓库 dewu-weekly-report](https://github.com/g17326050972-dotcom/dewu-weekly-report)，后续周报请使用该仓库。本目录保留为历史归档。
+
 ## 历史周次入口
 
 [打开可切换周次的周报](https://dara-weekly-20260831.lucky-fawn-8231.chatgpt.site/) · [历史模块源码与使用说明](history/README.md)

@@ -1,5 +1,7 @@
 # 周报历史入口
 
+> 周报已迁至[独立仓库 dewu-weekly-report](https://github.com/g17326050972-dotcom/dewu-weekly-report)，后续周报请使用该仓库。本目录保留为历史归档。
+
 `python3 scripts/build-history.py --output site` 将 `weekly-archive/` 中已公开的周报生成到 `site/`，无第三方构建依赖。站点根路径默认最新一期，每期固定路径为 `reports/<期号>/`，选择器与历史表均可切换。
 
 新增一期时，将审核过的公开页面及其本地资源放入 `weekly-archive/pages/<期号>/`，在 `weeks.json` 添加汇总指标、查询日期和核对口径，再重建。不要将原始订单、成本工作簿、登录态或凭据加入归档。缺失指标使用 null，不能填写 0。
