@@ -62,12 +62,12 @@ def main():
         elif path.suffix in ('.js', '.mjs') and node:
             command([node, '--check', str(path)])
             counts['javascript'] += 1
-        elif path.suffix == '.html' and 'examples' in path.parts:
+        elif path.suffix == '.html' and ('examples' in path.parts or 'history' in path.parts):
             parser = Assets()
             parser.feed(path.read_text())
             for ref in parser.refs:
                 asset = path.parent / ref
-                if not asset.is_file():
+                if not asset.is_file() and not (asset / 'index.html').is_file():
                     raise FileNotFoundError(f'{path.relative_to(ROOT)} -> {ref}')
             counts['html'] += 1
 
@@ -83,6 +83,11 @@ def main():
         command([sys.executable, str(weekly / 'build_snapshot.py'), '--output', str(output)])
         if digest_tree(output) != digest_tree(weekly / 'examples/20261005-1011/site'):
             raise ValueError('Rebuilt weekly snapshot differs from archived site')
+        history = weekly / 'history'
+        archive_output = Path(temp) / 'history'
+        command([sys.executable, str(history / 'scripts/build-history.py'), '--output', str(archive_output)])
+        if digest_tree(archive_output) != digest_tree(history / 'site'):
+            raise ValueError('Rebuilt weekly history differs from archived site')
 
     daily = ROOT / 'projects/product-analytics'
     daily_result = 'skipped: Node.js not found'
@@ -94,6 +99,7 @@ def main():
     print(json.dumps({'status': 'passed', 'syntax_and_assets': counts,
                       'node_syntax': 'passed' if node else 'skipped: Node.js not found',
                       'pricing_cases': 3, 'weekly_snapshot': 'byte-identical',
+                      'weekly_history': '4 reports rebuilt byte-identical',
                       'daily_snapshot': daily_result,
                       'raw_order_reconciliation': 'requires local private inputs; see docs/validation.md'},
                      ensure_ascii=False, indent=2))

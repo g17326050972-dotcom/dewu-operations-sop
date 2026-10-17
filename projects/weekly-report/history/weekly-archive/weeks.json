@@ -1,0 +1,9 @@
+{
+  "updated": "2026-10-17",
+  "weeks": [
+    {"id":"20260831-0906","start":"2026-08-31","end":"2026-09-06","week":36,"snapshot":"2026-09-11","raw":51364,"orders":162,"effective":null,"basis":"未逐单核对退款","pending":null,"adSpend":4174.83,"discountRoi":null,"visitors":35135,"exposure":103247,"reads":12358,"productVisits":3733,"created":null,"accepted":null},
+    {"id":"20260907-0913","start":"2026-09-07","end":"2026-09-13","week":37,"snapshot":"2026-09-14","raw":59830,"orders":151,"effective":47932,"basis":"仅剔除2笔已知关闭订单，未完整核对","pending":null,"adSpend":4045.07,"discountRoi":null,"visitors":33409,"exposure":75988,"reads":10485,"productVisits":2626,"created":null,"accepted":null},
+    {"id":"20260921-0927","start":"2026-09-21","end":"2026-09-27","week":39,"snapshot":"2026-09-28","raw":52919,"orders":160,"effective":41269,"basis":"订单与售后核对；含售后处理中金额","pending":3241,"adSpend":5051.27,"discountRoi":2.92,"visitors":34728,"exposure":87484,"reads":12485,"productVisits":3220,"created":0,"accepted":1},
+    {"id":"20261005-1011","start":"2026-10-05","end":"2026-10-11","week":41,"snapshot":"2026-10-12","raw":41307,"orders":125,"effective":25122,"basis":"订单与售后核对；含售后处理中金额","pending":1463,"adSpend":4639.75,"discountRoi":1.89,"visitors":36948,"exposure":104711,"reads":13567,"productVisits":3782,"created":4,"accepted":2}
+  ]
+}

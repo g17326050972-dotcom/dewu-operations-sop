@@ -1,18 +1,18 @@
 # 得物运营 SOP
 
-最近更新：2026-10-15；首次整理：2026-10-12。归档「得物运营SOP」分区的 7 个项目，保留 4 个可复用技能、业务规则、源代码、报表页面与校验方法。
+最近更新：2026-10-17；首次整理：2026-10-12。归档「得物运营SOP」分区的 7 个项目，保留 4 个可复用技能、业务规则、源代码、报表页面与校验方法。
 
 仓库已由所有者设为 **Public**，可直接分享和下载。示例包含已选择公开的历史经营汇总和测算；原始订单、售后明细、客户联系方式、登录凭据和云站点部署身份文件不入库。
 
-分享入口：[仓库首页](https://github.com/g17326050972-dotcom/dewu-operations-sop) · [下载最新 ZIP](https://github.com/g17326050972-dotcom/dewu-operations-sop/archive/refs/heads/main.zip) · [本次更新说明](docs/updates/2026-10-15.md)。这两个分享地址沿用不变，更新后可重新下载最新内容。
+分享入口：[仓库首页](https://github.com/g17326050972-dotcom/dewu-operations-sop) · [下载最新 ZIP](https://github.com/g17326050972-dotcom/dewu-operations-sop/archive/refs/heads/main.zip) · [本次更新说明](docs/updates/2026-10-17.md)。这两个分享地址沿用不变，更新后可重新下载最新内容。
 
-可浏览的报告：[商品日报](https://dewu-product-daily-trends.lucky-fawn-8231.chatgpt.site/) · [10 月 5—11 日周报](https://dara-weekly-20261005.w17326050972.chatgpt.site/)。仓库内也保留对应静态文件；报告截止日以页面标注为准。
+可浏览的报告：[商品日报](https://dewu-product-daily-trends.lucky-fawn-8231.chatgpt.site/) · [历史周报 · 可切换周次](https://dara-weekly-20260831.lucky-fawn-8231.chatgpt.site/)。仓库内也保留对应静态文件；报告截止日以页面标注为准。
 
 ## 项目入口
 
 | 项目 | 内容 | 当前交付状态 |
 | --- | --- | --- |
-| [得物周报](projects/weekly-report/README.md) | 订单售后核对、退款剔除、收藏率、得物推 ROI、引力验收和内容链接、月度利润历史脚本 | 10 月 5—11 日完整静态示例；核对脚本和示例构建器已验证 |
+| [得物周报](projects/weekly-report/README.md) | 订单售后核对、退款剔除、收藏率、得物推 ROI、引力验收和内容链接、月度利润历史脚本 | 4 期历史周报、周次切换及指标对照；保留各期查询快照与核对口径 |
 | [新品上架](projects/new-product/README.md) | 货盘、商品图片、属性、礼盒规格、草稿、上架核验 | 已有技能和操作流程 |
 | [得物货品池编码填写](projects/merchant-pool-code/README.md) | 品牌礼盒及两类升级礼盒的商家编码、批量导入和回读 | 已有技能和操作流程 |
 | [出价/自建折扣](projects/self-discount/README.md) | 按授权处理出价、多款优先官方表格报名、到手价校验 | 已加入 10 月 14 日4款批量导入并审核通过的流程 |

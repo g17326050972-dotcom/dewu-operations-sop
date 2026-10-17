@@ -1,0 +1,271 @@
+{
+  "snapshot_date": "2026-10-17",
+  "scope": "历史周报4期、周次选择及对照；仅已公开页面及汇总",
+  "files": [
+    {
+      "path": "projects/weekly-report/history/README.md",
+      "bytes": 1115,
+      "sha256": "69070e36fa87748c557949a7f0235d76e4a210e08add55ff1cd56a22a2f5f691"
+    },
+    {
+      "path": "projects/weekly-report/history/scripts/build-history.py",
+      "bytes": 6720,
+      "sha256": "0f2d7f1e0fcac04c74e2732f81e1749289fe743a4e5a36752489142b5d379f86"
+    },
+    {
+      "path": "projects/weekly-report/history/site/history-assets/history.css",
+      "bytes": 3818,
+      "sha256": "837ac5638edad6de0924a1783574524139ebcfef105032ff96fe494ac15dcb7c"
+    },
+    {
+      "path": "projects/weekly-report/history/site/history-assets/history.js",
+      "bytes": 202,
+      "sha256": "cd6755736b434faf5da2938fb3a4fa62a3cd12e72fa6e4560e6077eaebc314e6"
+    },
+    {
+      "path": "projects/weekly-report/history/site/images/H8177001.jpeg",
+      "bytes": 18203,
+      "sha256": "7ce0ee1702232d1932a8dce446a35a388d0d68ef61d48fb5638129949c8b79a2"
+    },
+    {
+      "path": "projects/weekly-report/history/site/images/S2245001.jpg",
+      "bytes": 39161,
+      "sha256": "9195b77367d63c8e0ef83be2e48fc50f18be95ce1019c9d4cb1139ba2fafc9b0"
+    },
+    {
+      "path": "projects/weekly-report/history/site/images/X1818002.jpg",
+      "bytes": 56545,
+      "sha256": "93a669d85cfc824a4c46c6d28eda15db4862df11023a704788411d7a1fcf9c51"
+    },
+    {
+      "path": "projects/weekly-report/history/site/images/X2117005.jpeg",
+      "bytes": 211891,
+      "sha256": "98bf7f1a57645da1d5122386b67ff12bd2a799d92720562b0ce87cadb849f73f"
+    },
+    {
+      "path": "projects/weekly-report/history/site/images/X9315001T.jpg",
+      "bytes": 164681,
+      "sha256": "844bbd3ac0a28b4191f08ca265fe05853e40d06f3e177cf51cf542bc468900b2"
+    },
+    {
+      "path": "projects/weekly-report/history/site/images/YH9389002.jpeg",
+      "bytes": 10151,
+      "sha256": "b8593dea2697bf146420d57a7a3bd8a38fa185c6ca7c21fc1eba73987fac2513"
+    },
+    {
+      "path": "projects/weekly-report/history/site/images/YX6829001.jpeg",
+      "bytes": 66951,
+      "sha256": "027b2ce731a1ab1d20685035472560b2a6909e068a077ad349f79b70a5ba99d4"
+    },
+    {
+      "path": "projects/weekly-report/history/site/images/YX6952001.jpeg",
+      "bytes": 15113,
+      "sha256": "5f3165bc26bfcb275a271e27665514a199266320826f3f425a71e02ea8bdabb2"
+    },
+    {
+      "path": "projects/weekly-report/history/site/images/YX9354001.jpeg",
+      "bytes": 105230,
+      "sha256": "2b1e5b3474a0077eec16413125388f73c20d141e0e8abb4d1719d637a51c545b"
+    },
+    {
+      "path": "projects/weekly-report/history/site/images/YX9615001.jpg",
+      "bytes": 70087,
+      "sha256": "6a0360a4f65ff7a3b96373a389b9908736765b5fd24c8d202a124dcf8b4bb221"
+    },
+    {
+      "path": "projects/weekly-report/history/site/index.html",
+      "bytes": 78407,
+      "sha256": "d53ca9080ceac162136fb0b1cce4fe61530cafbe4b8c2c013dab99b21dd8798f"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20260831-0906/index.html",
+      "bytes": 1770718,
+      "sha256": "578040c154d69c8d4d1398902d31bd0537165929bbb2a8325f76d897f750abcb"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20260907-0913/index.html",
+      "bytes": 1402372,
+      "sha256": "c7981df39fb875a6cb619a23b94cea5fce6fc35cc58a4cc5634191bf8fb4e30a"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20260921-0927/favicon.svg",
+      "bytes": 324,
+      "sha256": "504471bdb98d513d4ab92f3e6fe64ec23ea2e587afb58200a25e7afcfbf8c03a"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20260921-0927/index.html",
+      "bytes": 2956801,
+      "sha256": "8acdd55166a5f122f27c6d9b3cb42d74f430e6557138619e172dcfaecba01f42"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20260921-0927/sku-reconciliation.csv",
+      "bytes": 12175,
+      "sha256": "0356e4122124a74908a16e6f6897e0363190b936b9f639de1d5445772d6e1937"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/images/H8177001.jpeg",
+      "bytes": 18203,
+      "sha256": "7ce0ee1702232d1932a8dce446a35a388d0d68ef61d48fb5638129949c8b79a2"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/images/S2245001.jpg",
+      "bytes": 39161,
+      "sha256": "9195b77367d63c8e0ef83be2e48fc50f18be95ce1019c9d4cb1139ba2fafc9b0"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/images/X1818002.jpg",
+      "bytes": 56545,
+      "sha256": "93a669d85cfc824a4c46c6d28eda15db4862df11023a704788411d7a1fcf9c51"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/images/X2117005.jpeg",
+      "bytes": 211891,
+      "sha256": "98bf7f1a57645da1d5122386b67ff12bd2a799d92720562b0ce87cadb849f73f"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/images/X9315001T.jpg",
+      "bytes": 164681,
+      "sha256": "844bbd3ac0a28b4191f08ca265fe05853e40d06f3e177cf51cf542bc468900b2"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/images/YH9389002.jpeg",
+      "bytes": 10151,
+      "sha256": "b8593dea2697bf146420d57a7a3bd8a38fa185c6ca7c21fc1eba73987fac2513"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/images/YX6829001.jpeg",
+      "bytes": 66951,
+      "sha256": "027b2ce731a1ab1d20685035472560b2a6909e068a077ad349f79b70a5ba99d4"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/images/YX6952001.jpeg",
+      "bytes": 15113,
+      "sha256": "5f3165bc26bfcb275a271e27665514a199266320826f3f425a71e02ea8bdabb2"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/images/YX9354001.jpeg",
+      "bytes": 105230,
+      "sha256": "2b1e5b3474a0077eec16413125388f73c20d141e0e8abb4d1719d637a51c545b"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/images/YX9615001.jpg",
+      "bytes": 70087,
+      "sha256": "6a0360a4f65ff7a3b96373a389b9908736765b5fd24c8d202a124dcf8b4bb221"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/index.html",
+      "bytes": 78503,
+      "sha256": "6b0a82e1ddf87240f2eb096aa717519af7bf595c1f4e26c950f7f461b154a7da"
+    },
+    {
+      "path": "projects/weekly-report/history/site/reports/20261005-1011/sku-reconciliation.csv",
+      "bytes": 12261,
+      "sha256": "b7b5ccb6da0269a3a2d8f165bc6766e7a1c5524559f460fbe946dbdf9ed15cfb"
+    },
+    {
+      "path": "projects/weekly-report/history/site/sku-reconciliation.csv",
+      "bytes": 12261,
+      "sha256": "b7b5ccb6da0269a3a2d8f165bc6766e7a1c5524559f460fbe946dbdf9ed15cfb"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20260831-0906/index.html",
+      "bytes": 1765501,
+      "sha256": "fd25a4e64e48e1b820b2c1be5567c9240dfb078e095e526904c82ff0cf870561"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20260907-0913/index.html",
+      "bytes": 1397171,
+      "sha256": "906939c012a13e3e15500377b4b79a06faea7749a2e7381659ab3e4a12fd9c79"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20260921-0927/favicon.svg",
+      "bytes": 324,
+      "sha256": "504471bdb98d513d4ab92f3e6fe64ec23ea2e587afb58200a25e7afcfbf8c03a"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20260921-0927/index.html",
+      "bytes": 2951594,
+      "sha256": "ad3ff4589afd6ea1b2d22bbcfa5b4116349f587785f83efb0339b5caefbc9201"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20260921-0927/sku-reconciliation.csv",
+      "bytes": 12175,
+      "sha256": "0356e4122124a74908a16e6f6897e0363190b936b9f639de1d5445772d6e1937"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/images/H8177001.jpeg",
+      "bytes": 18203,
+      "sha256": "7ce0ee1702232d1932a8dce446a35a388d0d68ef61d48fb5638129949c8b79a2"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/images/S2245001.jpg",
+      "bytes": 39161,
+      "sha256": "9195b77367d63c8e0ef83be2e48fc50f18be95ce1019c9d4cb1139ba2fafc9b0"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/images/X1818002.jpg",
+      "bytes": 56545,
+      "sha256": "93a669d85cfc824a4c46c6d28eda15db4862df11023a704788411d7a1fcf9c51"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/images/X2117005.jpeg",
+      "bytes": 211891,
+      "sha256": "98bf7f1a57645da1d5122386b67ff12bd2a799d92720562b0ce87cadb849f73f"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/images/X9315001T.jpg",
+      "bytes": 164681,
+      "sha256": "844bbd3ac0a28b4191f08ca265fe05853e40d06f3e177cf51cf542bc468900b2"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/images/YH9389002.jpeg",
+      "bytes": 10151,
+      "sha256": "b8593dea2697bf146420d57a7a3bd8a38fa185c6ca7c21fc1eba73987fac2513"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/images/YX6829001.jpeg",
+      "bytes": 66951,
+      "sha256": "027b2ce731a1ab1d20685035472560b2a6909e068a077ad349f79b70a5ba99d4"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/images/YX6952001.jpeg",
+      "bytes": 15113,
+      "sha256": "5f3165bc26bfcb275a271e27665514a199266320826f3f425a71e02ea8bdabb2"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/images/YX9354001.jpeg",
+      "bytes": 105230,
+      "sha256": "2b1e5b3474a0077eec16413125388f73c20d141e0e8abb4d1719d637a51c545b"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/images/YX9615001.jpg",
+      "bytes": 70087,
+      "sha256": "6a0360a4f65ff7a3b96373a389b9908736765b5fd24c8d202a124dcf8b4bb221"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/index.html",
+      "bytes": 73280,
+      "sha256": "811545fd5200d1aa0008c9d6ffa77f5a94502f1ca72e1635c4ef3d5cf8892d46"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/pages/20261005-1011/sku-reconciliation.csv",
+      "bytes": 12261,
+      "sha256": "b7b5ccb6da0269a3a2d8f165bc6766e7a1c5524559f460fbe946dbdf9ed15cfb"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/ui/history.css",
+      "bytes": 3818,
+      "sha256": "837ac5638edad6de0924a1783574524139ebcfef105032ff96fe494ac15dcb7c"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/ui/history.js",
+      "bytes": 202,
+      "sha256": "cd6755736b434faf5da2938fb3a4fa62a3cd12e72fa6e4560e6077eaebc314e6"
+    },
+    {
+      "path": "projects/weekly-report/history/weekly-archive/weeks.json",
+      "bytes": 1434,
+      "sha256": "2b915c797a2b5d3d2214ae8193191bc8b03059845d7f3a80de363ca1eb04a117"
+    }
+  ]
+}
